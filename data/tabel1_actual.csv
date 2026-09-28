@@ -1,0 +1,501 @@
+UNIT_TYPE,UNIT_NODE,LOCATION,LATITUDE,LONGITUDE,Personnel,Equipment,Logistics,Infrastructure,Training
+Bekangdam,Bekangdam 124,Kepulauan Bangka Belitung,-2.615527,106.300932,305,123,7623,49,12
+Bekangdam,Bekangdam 114,Papua,-3.118801,137.121188,326,131,6812,51,13
+Yonif,Yonif 40,Papua Selatan,-6.264664,139.17668,954,218,3300,30,11
+Yonif,Yonif 584,Papua Barat Daya,-1.062686,132.352291,786,229,2899,37,20
+Yonkav,Yonkav 469,Bali,-8.381168,114.630087,445,293,2222,37,20
+Yonzipur,Yonzipur 358,Sulawesi Tenggara,-3.759773,121.580496,548,187,2440,62,17
+Yonif,Yonif 399,DKI Jakarta,-6.204046,106.843126,820,241,2782,40,19
+Yonif,Yonif 757,DKI Jakarta,-6.114554,106.810716,638,218,1768,41,13
+Denpal,Denpal 310,Nusa Tenggara Timur,-9.519413,124.721828,163,65,1203,29,12
+Bekangdam,Bekangdam 81,Maluku Utara,2.242741,128.295895,336,142,6204,47,10
+Yonkav,Yonkav 897,Nusa Tenggara Timur,-8.787383,121.819804,459,310,3338,36,18
+Yonarmed,Yonarmed 176,Sulawesi Selatan,-3.877534,120.236453,407,186,3370,30,22
+Bekangdam,Bekangdam 969,Sumatera Utara,1.438377,98.829425,358,125,6104,47,16
+Yonkav,Yonkav 556,Sulawesi Barat,-3.055561,119.615013,522,309,2084,44,18
+Bekangdam,Bekangdam 714,Nusa Tenggara Timur,-10.200189,123.991945,393,141,5100,43,13
+Yonkav,Yonkav 851,Sumatera Selatan,-2.149354,104.380655,430,272,3682,45,24
+Yonkav,Yonkav 945,Jawa Barat,-7.073549,108.5287,409,352,3904,37,22
+Yonzipur,Yonzipur 915,Sulawesi Barat,-1.859766,119.804893,535,222,2400,52,17
+Yonkav,Yonkav 772,Papua Barat Daya,-0.823425,132.434441,449,376,2546,51,21
+Denpal,Denpal 418,Kalimantan Utara,4.13782,116.949848,220,88,1426,36,11
+Yonif,Yonif 783,Maluku,-6.415244,134.147182,1002,187,2456,26,16
+Bekangdam,Bekangdam 442,Sumatera Utara,2.511411,99.018715,276,122,5737,51,13
+Yonzipur,Yonzipur 551,Kalimantan Selatan,-4.070048,114.772173,715,179,2458,61,19
+Bekangdam,Bekangdam 916,Kalimantan Tengah,-0.788698,112.116389,240,120,6733,50,12
+Yonarmed,Yonarmed 455,Papua Pegunungan,-3.77323,138.317055,444,246,3073,39,19
+Yonkav,Yonkav 529,Kepulauan Riau,-0.553498,104.531124,368,311,2799,35,18
+Denpal,Denpal 213,Papua,-2.190877,137.335582,127,78,1569,31,12
+Yonif,Yonif 623,Sulawesi Selatan,-2.63522,121.541192,868,262,2915,25,13
+Yonarmed,Yonarmed 255,Kalimantan Barat,0.730473,109.698277,479,227,2587,30,18
+Bekangdam,Bekangdam 507,Riau,0.623802,102.18063,390,129,6971,55,10
+Yonzipur,Yonzipur 979,Papua Barat Daya,-0.924332,131.594456,642,191,2537,63,18
+Yonzipur,Yonzipur 997,Daerah Istimewa Yogyakarta,-8.022923,110.581102,508,190,2460,50,18
+Yonzipur,Yonzipur 697,Jambi,-1.277107,104.064544,596,244,2524,39,18
+Yonif,Yonif 263,Papua Tengah,-4.470795,137.213689,866,246,2521,27,18
+Denpal,Denpal 245,Kalimantan Selatan,-3.27227,114.496039,204,87,1764,33,12
+Yonif,Yonif 244,Lampung,-4.882309,104.527185,977,199,3073,31,16
+Yonkav,Yonkav 295,Daerah Istimewa Yogyakarta,-7.753202,110.323058,484,288,2861,44,24
+Bekangdam,Bekangdam 967,Aceh,2.735306,95.907162,417,137,6202,48,10
+Yonzipur,Yonzipur 204,Sulawesi Barat,-3.145511,119.533112,509,231,3107,63,15
+Yonzipur,Yonzipur 430,Jawa Timur,-7.945783,113.729699,522,230,2949,56,18
+Yonif,Yonif 72,Papua Pegunungan,-3.532594,139.755016,829,216,2682,32,17
+Yonkav,Yonkav 559,Riau,1.203795,101.029156,427,284,3505,41,22
+Yonzipur,Yonzipur 265,Papua Selatan,-4.852955,137.987001,517,218,2597,45,15
+Bekangdam,Bekangdam 563,Jawa Tengah,-7.328349,109.571028,358,117,8605,40,8
+Yonzipur,Yonzipur 502,Lampung,-5.455053,105.203111,571,195,2784,50,13
+Yonif,Yonif 409,Nusa Tenggara Barat,-8.685002,119.130614,766,191,2309,38,16
+Bekangdam,Bekangdam 812,Maluku Utara,1.480079,127.85643,362,138,7999,54,13
+Yonarmed,Yonarmed 232,Papua Tengah,-3.982884,135.341168,417,197,3212,35,15
+Yonif,Yonif 61,Sulawesi Barat,-1.934899,119.292241,972,179,2201,33,22
+Yonif,Yonif 993,Gorontalo,0.69217,121.938584,847,204,2518,34,14
+Yonif,Yonif 701,Papua Tengah,-4.714942,137.602465,1017,240,2571,30,19
+Denpal,Denpal 618,Kepulauan Bangka Belitung,-3.129653,107.704291,185,100,1747,37,13
+Denpal,Denpal 588,Jambi,-2.443553,101.963935,162,90,1825,27,15
+Bekangdam,Bekangdam 331,Aceh,4.916094,97.443167,360,105,5394,52,14
+Bekangdam,Bekangdam 317,Kalimantan Timur,1.935167,116.3456,331,143,8217,60,13
+Denpal,Denpal 586,Sumatera Barat,-1.460057,101.458966,176,98,1282,31,12
+Yonarmed,Yonarmed 145,Maluku Utara,-1.591307,127.540047,523,299,3127,45,20
+Yonkav,Yonkav 458,Lampung,-4.821833,104.328462,391,303,3617,29,27
+Denpal,Denpal 18,Banten,-6.495903,106.236659,165,87,1736,31,13
+Yonkav,Yonkav 280,Papua,-2.741993,138.884048,488,310,3037,42,22
+Yonarmed,Yonarmed 629,Papua Selatan,-5.759139,139.556786,451,289,3225,42,20
+Yonarmed,Yonarmed 527,Lampung,-5.067331,104.445009,475,219,2070,34,17
+Yonzipur,Yonzipur 859,Sulawesi Tenggara,-4.635698,121.933118,665,157,3048,55,18
+Bekangdam,Bekangdam 278,Papua Barat Daya,-1.574655,131.755171,353,109,7703,50,12
+Yonif,Yonif 124,Kepulauan Riau,3.850881,108.317826,1100,203,1640,34,15
+Yonarmed,Yonarmed 606,Jambi,-0.801311,102.979014,455,257,2145,39,18
+Yonarmed,Yonarmed 383,Nusa Tenggara Timur,-9.612054,123.809883,477,242,2717,36,21
+Bekangdam,Bekangdam 115,Aceh,4.085403,97.123674,340,102,6584,59,12
+Yonkav,Yonkav 895,Kalimantan Selatan,-2.874192,115.559325,353,295,3316,52,25
+Bekangdam,Bekangdam 956,Kepulauan Bangka Belitung,-2.053683,106.113425,329,139,6331,66,11
+Yonkav,Yonkav 816,Papua,-2.32963,139.371592,411,301,3014,50,23
+Yonkav,Yonkav 214,Sulawesi Tengah,-0.977387,122.122259,494,358,4263,37,22
+Yonif,Yonif 685,Kalimantan Selatan,-3.531788,116.396826,724,153,3290,28,15
+Yonarmed,Yonarmed 369,Riau,1.871861,101.12719,445,285,2633,43,23
+Yonarmed,Yonarmed 971,Daerah Istimewa Yogyakarta,-8.174477,110.782878,461,251,2987,30,22
+Yonarmed,Yonarmed 49,Nusa Tenggara Timur,-8.636594,121.438078,579,315,3140,44,19
+Yonzipur,Yonzipur 630,Sulawesi Tengah,0.743029,120.70647,687,200,2039,38,13
+Yonarmed,Yonarmed 55,Papua Selatan,-6.932909,139.628384,550,259,2686,47,24
+Bekangdam,Bekangdam 972,Nusa Tenggara Timur,-9.501813,124.086844,393,115,4137,56,11
+Bekangdam,Bekangdam 952,DKI Jakarta,-6.158488,106.856244,250,109,8579,48,13
+Bekangdam,Bekangdam 931,Nusa Tenggara Barat,-8.518533,117.113576,279,133,6935,38,14
+Yonarmed,Yonarmed 422,Papua Selatan,-5.466495,138.269496,454,214,2953,38,26
+Yonzipur,Yonzipur 690,Jawa Tengah,-7.92413,110.956317,474,221,2677,51,14
+Yonarmed,Yonarmed 425,Jawa Tengah,-7.398642,110.937149,408,236,2969,38,17
+Yonzipur,Yonzipur 814,Kalimantan Utara,4.06362,115.754145,557,227,1987,47,14
+Yonzipur,Yonzipur 462,Papua Barat,-3.849407,133.086026,596,190,2258,43,17
+Bekangdam,Bekangdam 96,Papua Pegunungan,-4.036101,140.046564,336,112,7219,57,13
+Yonarmed,Yonarmed 105,Riau,-0.933419,101.778161,603,231,2639,38,26
+Yonkav,Yonkav 35,Daerah Istimewa Yogyakarta,-7.904383,110.202062,477,294,3543,37,25
+Yonzipur,Yonzipur 434,Papua Selatan,-5.51112,138.610946,508,248,2743,42,17
+Yonzipur,Yonzipur 419,Maluku,-2.865675,128.317937,526,200,2206,54,15
+Yonif,Yonif 807,Kalimantan Timur,0.913089,118.904786,874,176,2458,39,22
+Yonzipur,Yonzipur 61,Kalimantan Utara,2.88825,117.368876,473,246,2490,60,15
+Yonzipur,Yonzipur 693,Sulawesi Tenggara,-3.528023,122.274773,629,166,2997,53,16
+Denpal,Denpal 844,Nusa Tenggara Timur,-10.730531,123.219323,176,81,1909,24,9
+Bekangdam,Bekangdam 892,Kalimantan Barat,0.298128,110.442513,346,133,7269,53,12
+Yonarmed,Yonarmed 794,Jawa Tengah,-7.403492,108.904498,540,250,2750,37,23
+Yonzipur,Yonzipur 89,Sumatera Utara,3.464808,98.087615,518,223,3211,50,16
+Denpal,Denpal 92,Kalimantan Tengah,-2.258151,112.251737,192,105,1674,29,12
+Yonkav,Yonkav 733,Jawa Tengah,-7.12899,111.162779,494,338,3640,26,23
+Denpal,Denpal 487,Sulawesi Tengah,-1.064983,121.821543,179,82,1487,30,14
+Denpal,Denpal 978,Jawa Tengah,-7.714855,108.968761,170,63,1319,30,13
+Yonif,Yonif 975,Kalimantan Barat,0.468411,112.063559,817,185,2230,32,16
+Bekangdam,Bekangdam 762,Lampung,-4.442883,105.144937,343,125,6818,57,13
+Yonarmed,Yonarmed 456,Sulawesi Selatan,-4.748984,120.071114,431,258,3506,33,22
+Bekangdam,Bekangdam 827,Sulawesi Tengah,-2.065646,121.141815,380,98,8021,50,13
+Denpal,Denpal 37,Papua Barat,-0.847018,133.592292,159,83,1637,36,14
+Yonif,Yonif 668,Aceh,4.140738,96.246591,809,264,3300,25,15
+Yonarmed,Yonarmed 398,Lampung,-5.345683,104.389375,471,272,2902,32,13
+Yonzipur,Yonzipur 294,Kalimantan Tengah,-1.107384,113.918058,530,199,2090,66,13
+Bekangdam,Bekangdam 562,Daerah Istimewa Yogyakarta,-7.85001,110.603922,322,132,6680,42,14
+Bekangdam,Bekangdam 51,Papua,-3.118552,137.124039,337,116,8119,58,13
+Yonkav,Yonkav 254,Papua,-2.584216,140.094874,460,174,4339,41,20
+Yonkav,Yonkav 486,Aceh,3.12908,97.682209,380,275,3811,45,23
+Denpal,Denpal 996,Bengkulu,-2.916899,101.800241,166,93,1330,29,12
+Yonif,Yonif 961,Sulawesi Utara,1.520842,125.003815,883,196,2604,34,16
+Bekangdam,Bekangdam 213,Sulawesi Utara,0.750586,124.320059,275,112,6342,57,14
+Yonif,Yonif 723,Papua Tengah,-3.977309,137.174493,833,255,2883,38,19
+Yonif,Yonif 365,Sumatera Selatan,-2.799361,105.216871,833,198,2030,22,15
+Denpal,Denpal 673,Kalimantan Barat,0.880924,109.082357,140,99,1623,28,16
+Yonzipur,Yonzipur 993,Sulawesi Tenggara,-3.840507,121.852887,673,189,2233,40,12
+Yonkav,Yonkav 761,Papua,-2.938907,137.147402,432,287,2922,47,14
+Yonzipur,Yonzipur 486,Kepulauan Bangka Belitung,-2.613585,106.217553,565,214,2612,52,13
+Yonif,Yonif 295,Maluku Utara,-0.031058,127.724328,750,228,2568,30,15
+Bekangdam,Bekangdam 398,Bengkulu,-2.892471,101.429201,277,155,6021,41,12
+Yonzipur,Yonzipur 227,Sulawesi Utara,0.35338,123.679726,409,187,3300,51,18
+Bekangdam,Bekangdam 911,Riau,-0.844256,102.605824,380,116,6258,50,13
+Yonif,Yonif 257,Sumatera Utara,2.324227,98.534013,894,217,2564,34,18
+Yonzipur,Yonzipur 671,Papua Pegunungan,-4.196504,138.26192,477,237,2205,54,16
+Yonkav,Yonkav 424,Sulawesi Barat,-2.960497,119.464382,518,317,3742,42,19
+Yonarmed,Yonarmed 494,Gorontalo,0.606056,121.84962,378,197,3078,39,24
+Yonarmed,Yonarmed 370,Papua Pegunungan,-4.481312,139.57681,428,229,2723,30,21
+Yonkav,Yonkav 133,Papua Pegunungan,-4.664489,140.565901,431,322,4176,43,20
+Yonkav,Yonkav 206,Jawa Timur,-6.969138,111.923837,480,334,3198,26,21
+Denpal,Denpal 299,Sumatera Selatan,-2.381848,104.86115,147,90,1273,31,13
+Yonkav,Yonkav 319,DKI Jakarta,-6.271055,106.77297,271,326,2848,40,24
+Yonif,Yonif 576,Papua Pegunungan,-4.451554,138.327084,1025,160,2580,30,18
+Yonif,Yonif 903,Kalimantan Selatan,-3.415271,114.44551,1018,244,2190,34,14
+Yonzipur,Yonzipur 358,Kalimantan Utara,4.17195,115.829238,594,239,2632,54,19
+Yonif,Yonif 420,Sulawesi Tengah,-1.944479,120.872773,775,225,2830,33,18
+Yonif,Yonif 165,Kalimantan Tengah,-0.40244,114.749766,814,210,2003,32,17
+Yonif,Yonif 581,Bengkulu,-2.928021,101.518591,1008,182,2449,31,14
+Denpal,Denpal 399,Sulawesi Selatan,-2.459766,121.377926,171,77,1999,23,11
+Yonarmed,Yonarmed 592,Gorontalo,0.631149,121.842218,568,239,2906,45,24
+Bekangdam,Bekangdam 226,Papua Selatan,-5.702198,139.054319,325,117,5524,51,12
+Yonkav,Yonkav 575,Kalimantan Tengah,-1.733672,114.332628,369,250,2602,37,19
+Bekangdam,Bekangdam 618,Daerah Istimewa Yogyakarta,-7.790267,110.501576,277,142,7942,58,13
+Bekangdam,Bekangdam 299,Kalimantan Barat,1.783449,109.636351,266,137,7126,58,14
+Yonarmed,Yonarmed 816,Kalimantan Utara,4.252665,116.106416,541,242,2965,37,20
+Yonif,Yonif 567,Nusa Tenggara Timur,-10.153847,120.268097,949,210,2292,31,17
+Yonif,Yonif 71,Papua,-2.238661,138.422025,755,171,2948,37,18
+Yonzipur,Yonzipur 137,Sulawesi Utara,0.816719,123.991599,473,241,2880,45,13
+Yonarmed,Yonarmed 522,Sulawesi Utara,0.603113,123.892592,449,288,3055,35,20
+Yonif,Yonif 920,Nusa Tenggara Timur,-9.925328,120.303773,1011,206,2327,40,19
+Yonif,Yonif 244,Maluku,-3.287288,129.659276,685,213,2223,41,19
+Yonarmed,Yonarmed 600,Sulawesi Barat,-2.846562,119.52903,506,203,3439,41,18
+Yonzipur,Yonzipur 948,Sulawesi Selatan,-2.557685,121.53609,604,203,2381,55,19
+Yonzipur,Yonzipur 103,Kalimantan Barat,-2.366535,111.022302,489,248,2334,42,18
+Bekangdam,Bekangdam 117,Nusa Tenggara Barat,-8.465408,118.392474,358,147,7039,58,12
+Yonarmed,Yonarmed 688,Sulawesi Barat,-2.942045,119.191127,570,268,2092,44,22
+Yonarmed,Yonarmed 268,Sulawesi Barat,-1.724564,119.509442,504,249,3442,44,22
+Bekangdam,Bekangdam 900,Papua Pegunungan,-3.647117,138.319706,290,163,6290,62,14
+Denpal,Denpal 380,Sulawesi Tenggara,-3.009745,121.731965,212,103,1682,27,10
+Yonkav,Yonkav 283,Kalimantan Barat,0.727378,109.862465,462,309,3435,41,19
+Yonzipur,Yonzipur 134,Sulawesi Utara,1.454486,124.899264,419,198,2116,43,15
+Yonarmed,Yonarmed 574,Kalimantan Utara,3.324302,115.781448,444,276,2740,38,18
+Yonif,Yonif 482,Sulawesi Tengah,-0.727051,120.001481,710,213,2515,25,12
+Denpal,Denpal 732,Bali,-8.488006,114.971123,160,106,1895,31,9
+Yonzipur,Yonzipur 574,Sulawesi Barat,-3.033518,119.171326,685,210,2397,58,15
+Bekangdam,Bekangdam 910,Aceh,4.286746,96.949907,245,165,6647,61,10
+Denpal,Denpal 283,Sulawesi Utara,3.488873,125.498875,166,70,1692,25,11
+Bekangdam,Bekangdam 511,Gorontalo,0.656509,123.316428,304,116,7239,47,15
+Yonarmed,Yonarmed 575,Sulawesi Utara,0.529799,124.021463,429,266,2800,32,25
+Bekangdam,Bekangdam 254,Papua Tengah,-4.622549,137.497645,310,140,6909,62,12
+Yonarmed,Yonarmed 772,DKI Jakarta,-6.106981,106.875968,513,202,3340,35,18
+Yonkav,Yonkav 517,Nusa Tenggara Barat,-8.466487,118.197181,482,251,2785,41,18
+Yonif,Yonif 905,Jawa Barat,-6.234534,107.215395,926,206,2666,28,16
+Bekangdam,Bekangdam 157,Nusa Tenggara Timur,-8.323823,124.52781,363,107,7687,47,10
+Yonarmed,Yonarmed 356,Papua Barat,-3.828935,134.648963,482,316,3302,29,23
+Yonarmed,Yonarmed 882,Kalimantan Timur,0.86704,117.612899,474,264,3509,29,18
+Bekangdam,Bekangdam 918,Gorontalo,0.653572,122.531406,412,138,5886,51,9
+Yonkav,Yonkav 656,Sumatera Utara,1.539152,100.332256,459,280,4306,45,16
+Yonif,Yonif 788,DKI Jakarta,-6.136316,106.920061,590,202,2339,38,13
+Yonarmed,Yonarmed 935,Kepulauan Riau,1.06021,103.940584,280,317,2615,37,19
+Yonarmed,Yonarmed 393,Kalimantan Utara,1.668521,116.000056,477,291,3123,36,25
+Denpal,Denpal 708,Daerah Istimewa Yogyakarta,-7.851396,110.629076,204,104,1579,30,15
+Yonzipur,Yonzipur 644,Gorontalo,0.926719,121.760327,715,132,1895,56,20
+Yonkav,Yonkav 482,Kepulauan Riau,3.888432,108.059008,383,214,3107,25,20
+Yonif,Yonif 930,Kepulauan Bangka Belitung,-2.632458,105.962968,1053,186,2515,32,13
+Yonif,Yonif 462,Sulawesi Selatan,-2.516424,121.507336,943,198,2035,38,18
+Bekangdam,Bekangdam 266,Jawa Timur,-8.2794,112.885718,302,151,7657,64,16
+Yonif,Yonif 252,Maluku Utara,-1.800277,124.803366,775,239,2712,42,20
+Bekangdam,Bekangdam 312,Bali,-8.260751,115.233996,353,109,6525,35,11
+Denpal,Denpal 895,Aceh,3.697749,97.146813,121,69,1745,30,12
+Yonkav,Yonkav 631,Sulawesi Selatan,-2.398836,120.182693,360,285,3509,31,21
+Yonarmed,Yonarmed 704,Bali,-8.350006,115.280416,477,296,2451,33,20
+Bekangdam,Bekangdam 671,Jawa Timur,-8.438756,114.15012,413,115,5554,45,14
+Yonarmed,Yonarmed 759,Sulawesi Utara,1.335122,124.594646,476,232,2854,45,13
+Yonkav,Yonkav 215,Riau,0.07629,103.10477,375,228,2846,49,18
+Yonarmed,Yonarmed 860,Kalimantan Utara,3.387902,116.545384,489,274,3126,31,22
+Yonif,Yonif 489,Jambi,-1.866137,102.089594,975,222,3300,30,19
+Yonzipur,Yonzipur 876,Sulawesi Tengah,-1.137196,119.601522,715,187,2161,57,17
+Yonarmed,Yonarmed 559,DKI Jakarta,-6.255181,106.893628,433,330,2124,42,18
+Yonarmed,Yonarmed 608,Papua Pegunungan,-4.391387,139.941438,548,173,2480,39,18
+Yonkav,Yonkav 492,Kalimantan Selatan,-2.726639,115.099612,452,256,2408,38,15
+Yonkav,Yonkav 673,Sulawesi Tenggara,-3.571475,121.373874,343,385,3971,49,19
+Bekangdam,Bekangdam 428,Banten,-5.991039,106.059542,264,113,6587,42,13
+Yonzipur,Yonzipur 128,Sumatera Selatan,-2.192678,104.604962,668,218,2514,54,10
+Yonzipur,Yonzipur 389,Jawa Tengah,-6.996598,111.490569,660,209,2337,57,13
+Bekangdam,Bekangdam 754,Riau,1.076951,100.258362,413,104,6289,53,14
+Denpal,Denpal 427,Kepulauan Riau,-0.391055,104.397702,203,91,1557,30,11
+Yonzipur,Yonzipur 465,Aceh,4.02634,96.424187,509,245,2414,63,21
+Denpal,Denpal 933,Sulawesi Barat,-3.353668,119.087884,167,84,1527,24,13
+Yonkav,Yonkav 135,Sulawesi Tengah,-1.658677,120.747314,432,323,3899,37,17
+Bekangdam,Bekangdam 621,Maluku,-7.890227,131.387057,268,129,7990,48,14
+Denpal,Denpal 220,Papua Barat,-1.91028,133.784267,184,73,1941,28,13
+Yonkav,Yonkav 346,Kalimantan Barat,0.842402,112.89744,376,226,3416,43,23
+Yonkav,Yonkav 563,Sulawesi Utara,3.467541,125.566672,469,232,3096,43,21
+Yonkav,Yonkav 25,Daerah Istimewa Yogyakarta,-7.978514,110.316697,423,266,3875,38,19
+Yonkav,Yonkav 281,Jawa Tengah,-6.978006,111.519054,450,385,3404,48,19
+Bekangdam,Bekangdam 75,Bali,-8.257014,115.281025,379,119,7611,59,12
+Yonif,Yonif 472,Kepulauan Riau,-0.492434,104.42686,1066,195,2943,39,17
+Denpal,Denpal 318,Sulawesi Selatan,-4.463466,119.958276,176,78,1358,27,14
+Yonzipur,Yonzipur 446,Jawa Timur,-8.023719,112.439704,513,159,2719,57,16
+Yonif,Yonif 339,Nusa Tenggara Timur,-10.0757,120.788674,739,197,2663,29,18
+Denpal,Denpal 658,Kalimantan Utara,4.178073,117.19902,158,77,1486,23,9
+Denpal,Denpal 311,Nusa Tenggara Timur,-8.196376,124.903571,160,83,1604,30,11
+Bekangdam,Bekangdam 127,DKI Jakarta,-6.300238,106.864583,396,132,7627,42,10
+Yonzipur,Yonzipur 919,Papua Selatan,-7.502821,139.788716,575,179,2201,48,15
+Yonzipur,Yonzipur 757,Maluku Utara,-1.524594,127.966733,472,251,2151,43,19
+Yonarmed,Yonarmed 393,Jawa Barat,-7.361315,107.870864,419,247,2972,37,22
+Yonif,Yonif 105,Jawa Timur,-8.24953,111.877711,1048,179,2018,30,19
+Yonif,Yonif 610,Jawa Tengah,-7.801138,110.014374,886,217,2526,36,17
+Yonzipur,Yonzipur 372,Kalimantan Selatan,-3.196257,116.140641,618,200,2910,61,18
+Yonarmed,Yonarmed 370,Jawa Tengah,-6.993878,109.816378,574,243,3221,34,24
+Bekangdam,Bekangdam 503,Kalimantan Selatan,-2.814881,115.293055,299,128,7711,43,12
+Yonif,Yonif 790,Kepulauan Bangka Belitung,-2.84255,108.221794,965,226,2791,41,17
+Denpal,Denpal 638,Jambi,-1.106991,102.234933,179,77,1126,33,12
+Bekangdam,Bekangdam 859,Jambi,-2.431423,102.578982,355,160,7404,37,11
+Bekangdam,Bekangdam 790,Sulawesi Barat,-3.419774,119.04585,430,120,6123,42,13
+Yonkav,Yonkav 589,Jawa Tengah,-6.544248,110.837564,455,358,4054,52,21
+Yonif,Yonif 103,Kepulauan Riau,1.118694,103.944922,600,219,2432,35,19
+Yonarmed,Yonarmed 171,Maluku Utara,0.486987,128.563194,482,218,3379,36,18
+Yonif,Yonif 914,Kalimantan Utara,1.778487,115.62526,888,235,2955,33,20
+Bekangdam,Bekangdam 93,Papua Tengah,-4.148888,137.483663,322,128,6876,51,12
+Denpal,Denpal 462,Kalimantan Utara,4.199479,117.137338,188,91,1658,34,14
+Yonarmed,Yonarmed 450,Lampung,-4.310529,105.444789,456,232,3484,35,19
+Yonzipur,Yonzipur 549,Papua Barat Daya,-1.203411,130.856746,467,198,2175,51,15
+Denpal,Denpal 66,Jawa Timur,-7.873918,113.464026,197,83,1605,26,9
+Yonarmed,Yonarmed 306,Papua Selatan,-7.608713,138.202189,456,207,2949,48,20
+Yonkav,Yonkav 142,Riau,-0.447465,101.11186,396,312,3200,42,22
+Bekangdam,Bekangdam 835,Sulawesi Selatan,-2.561465,120.299939,352,147,5296,51,13
+Yonif,Yonif 480,Nusa Tenggara Barat,-8.814851,117.772305,768,165,2589,30,18
+Yonzipur,Yonzipur 736,Kalimantan Utara,1.402581,115.648419,329,207,2704,48,17
+Yonif,Yonif 999,Maluku,-2.913679,128.613184,691,148,2654,34,18
+Yonarmed,Yonarmed 100,Sumatera Utara,3.030436,99.071219,568,249,3481,35,17
+Yonzipur,Yonzipur 546,Sumatera Utara,0.505227,99.435402,450,164,2323,56,17
+Yonarmed,Yonarmed 807,Sumatera Selatan,-2.657689,103.514406,352,240,2904,28,18
+Denpal,Denpal 532,Jawa Barat,-6.364196,108.076453,192,77,1923,34,14
+Yonkav,Yonkav 115,Jawa Barat,-6.391612,106.755272,521,289,2551,48,21
+Yonkav,Yonkav 788,Papua Selatan,-8.296929,138.689003,302,299,2872,41,22
+Yonzipur,Yonzipur 782,Kalimantan Tengah,-0.088489,114.697,608,221,2253,46,22
+Bekangdam,Bekangdam 660,Kalimantan Tengah,-3.191172,113.997536,256,117,7187,45,12
+Yonzipur,Yonzipur 79,Kalimantan Timur,0.821755,114.390834,634,225,2948,48,15
+Denpal,Denpal 67,Papua Barat Daya,-2.027444,132.398069,148,96,1483,25,14
+Yonzipur,Yonzipur 48,Sumatera Selatan,-2.788862,104.670362,626,208,2854,54,19
+Yonif,Yonif 639,Kalimantan Utara,2.653304,116.026455,874,230,2423,23,19
+Denpal,Denpal 987,Papua Pegunungan,-4.584599,138.609827,200,81,1726,29,14
+Yonarmed,Yonarmed 629,Kalimantan Utara,3.806396,116.86124,436,200,2831,40,22
+Yonif,Yonif 840,Papua Barat,-2.145833,133.086377,931,248,3215,31,14
+Yonif,Yonif 263,Bali,-8.316558,114.603943,712,226,2666,40,19
+Yonkav,Yonkav 382,Papua Tengah,-3.080489,137.402489,455,238,3905,42,19
+Bekangdam,Bekangdam 622,Jawa Tengah,-7.30671,110.935828,280,139,7622,63,8
+Yonarmed,Yonarmed 106,Nusa Tenggara Barat,-8.741112,116.814401,388,197,3148,40,20
+Bekangdam,Bekangdam 882,Papua Pegunungan,-4.938243,140.697308,337,136,5909,46,12
+Denpal,Denpal 689,Sumatera Selatan,-4.26907,104.658744,148,101,1397,34,14
+Bekangdam,Bekangdam 411,Kepulauan Bangka Belitung,-2.047236,105.629905,375,116,6589,56,9
+Yonzipur,Yonzipur 668,Gorontalo,0.44582,123.392939,505,185,2856,53,16
+Denpal,Denpal 105,Jawa Tengah,-6.911428,109.362694,168,81,1570,32,11
+Yonif,Yonif 381,Kalimantan Barat,0.347526,110.232883,876,212,2859,31,14
+Yonkav,Yonkav 241,Nusa Tenggara Timur,-8.591057,120.6265,380,288,2835,53,20
+Denpal,Denpal 799,Kepulauan Bangka Belitung,-2.325029,106.260379,165,101,1673,33,13
+Denpal,Denpal 144,Banten,-6.524576,106.166007,152,76,1399,29,15
+Bekangdam,Bekangdam 799,Jawa Tengah,-7.388424,110.395461,315,127,6698,44,14
+Yonarmed,Yonarmed 702,Kalimantan Utara,2.584756,116.856116,372,252,2127,22,23
+Yonkav,Yonkav 556,Papua Barat Daya,-1.162282,131.931957,432,229,3289,44,20
+Bekangdam,Bekangdam 979,Sulawesi Utara,0.738988,124.545739,296,165,6257,47,11
+Denpal,Denpal 550,Sulawesi Tenggara,-4.017865,121.758244,209,69,1875,32,14
+Yonarmed,Yonarmed 63,Kalimantan Utara,2.20118,114.834309,564,229,2640,33,17
+Bekangdam,Bekangdam 876,Sulawesi Selatan,-3.091916,119.742158,280,118,6918,60,11
+Yonarmed,Yonarmed 470,Jambi,-1.196426,102.498817,530,253,2719,41,21
+Yonzipur,Yonzipur 915,Kalimantan Selatan,-2.328185,115.620647,549,234,2590,51,16
+Denpal,Denpal 392,Banten,-6.146401,105.955628,141,84,1732,29,12
+Yonif,Yonif 336,Sulawesi Selatan,-2.940757,121.307125,916,119,2596,34,14
+Yonif,Yonif 303,Nusa Tenggara Timur,-9.731929,119.486807,920,201,2640,30,18
+Denpal,Denpal 15,Sulawesi Utara,0.999626,124.741744,139,97,1891,32,12
+Denpal,Denpal 972,Sumatera Utara,1.837793,99.922059,143,46,1766,30,16
+Yonkav,Yonkav 318,Sulawesi Tenggara,-2.925688,121.612445,406,291,2793,42,20
+Denpal,Denpal 478,Sulawesi Barat,-2.902449,119.045094,207,81,1686,28,10
+Yonif,Yonif 657,Kalimantan Tengah,-2.033471,115.200321,886,231,2449,29,16
+Yonzipur,Yonzipur 11,Sulawesi Barat,-2.831148,119.364571,631,250,2413,52,17
+Yonkav,Yonkav 690,Aceh,4.968492,96.356677,514,289,2976,49,22
+Denpal,Denpal 567,Nusa Tenggara Barat,-8.605074,117.545211,182,86,1908,33,11
+Yonzipur,Yonzipur 54,Kalimantan Utara,2.336684,115.417429,488,135,2439,52,15
+Yonarmed,Yonarmed 817,Daerah Istimewa Yogyakarta,-7.854233,110.429155,385,263,3339,29,19
+Yonif,Yonif 800,Kepulauan Bangka Belitung,-2.037231,105.572606,966,186,2721,31,18
+Denpal,Denpal 356,Aceh,5.032162,96.278526,159,89,1791,27,11
+Yonzipur,Yonzipur 656,Jawa Tengah,-6.800679,111.6473,531,237,2606,58,16
+Yonarmed,Yonarmed 216,Kalimantan Selatan,-2.055259,115.550879,506,305,2786,39,24
+Denpal,Denpal 417,Nusa Tenggara Timur,-8.511578,121.207144,117,90,1590,25,13
+Yonkav,Yonkav 302,Bengkulu,-4.489644,103.028037,407,358,2915,29,16
+Yonif,Yonif 828,Riau,0.800802,101.412096,685,176,2869,34,17
+Yonarmed,Yonarmed 201,Maluku Utara,-2.026513,125.966043,409,168,3106,47,19
+Yonarmed,Yonarmed 830,Jawa Timur,-7.887771,113.204424,501,303,3518,37,20
+Yonkav,Yonkav 568,Sulawesi Tengah,1.082625,121.345105,396,305,2213,32,15
+Bekangdam,Bekangdam 312,Papua Selatan,-6.098479,140.446218,390,140,7316,56,16
+Bekangdam,Bekangdam 464,Kepulauan Riau,1.140674,104.483559,425,127,8800,43,13
+Yonzipur,Yonzipur 291,Lampung,-4.396777,104.883831,515,224,2237,40,19
+Yonzipur,Yonzipur 382,Maluku,-7.868904,131.132737,675,203,2441,54,17
+Denpal,Denpal 704,Sulawesi Tenggara,-3.178955,121.142496,185,78,1537,26,12
+Bekangdam,Bekangdam 385,Papua,-2.574796,138.346518,400,113,7943,45,14
+Yonkav,Yonkav 705,Papua Pegunungan,-3.818875,140.539677,392,351,4400,40,23
+Denpal,Denpal 150,Kalimantan Timur,-0.659595,115.759043,151,85,1946,32,10
+Yonarmed,Yonarmed 265,Sulawesi Barat,-1.540401,119.393986,557,241,2190,38,23
+Yonzipur,Yonzipur 945,Sulawesi Utara,0.699098,124.39998,434,205,2195,47,19
+Yonkav,Yonkav 636,Sulawesi Tenggara,-2.794825,121.096468,437,317,2561,49,20
+Yonkav,Yonkav 883,Sumatera Utara,3.288016,98.021574,451,284,3561,47,24
+Bekangdam,Bekangdam 875,Kalimantan Selatan,-2.795419,115.134224,296,91,6832,53,13
+Denpal,Denpal 307,Sumatera Utara,3.029921,99.758307,125,75,1436,29,12
+Yonarmed,Yonarmed 530,Sumatera Utara,1.412281,99.341095,589,255,2603,45,16
+Yonzipur,Yonzipur 36,Gorontalo,0.619309,121.624086,715,178,2587,52,13
+Denpal,Denpal 142,Papua,-3.843482,140.739182,189,74,1322,31,10
+Bekangdam,Bekangdam 746,Kalimantan Barat,-0.657922,110.538419,312,106,3851,56,12
+Yonif,Yonif 138,Kalimantan Utara,3.758759,117.633043,928,189,1911,27,18
+Bekangdam,Bekangdam 539,Papua Selatan,-5.46982,138.42116,337,148,6222,46,14
+Yonkav,Yonkav 796,Papua Barat,-2.077986,133.788481,411,369,2868,34,24
+Denpal,Denpal 166,Papua Tengah,-3.29286,135.781074,122,84,1793,33,11
+Yonarmed,Yonarmed 980,Gorontalo,0.64121,122.287351,492,237,3436,38,21
+Bekangdam,Bekangdam 989,Sulawesi Utara,0.854361,124.251391,320,145,7213,41,14
+Denpal,Denpal 556,Sumatera Selatan,-3.152979,102.846779,116,79,1902,28,12
+Denpal,Denpal 167,Jawa Tengah,-7.088284,109.640025,182,92,1520,26,11
+Denpal,Denpal 52,Kepulauan Riau,4.031901,108.056044,190,83,2200,25,12
+Yonarmed,Yonarmed 676,Bengkulu,-4.060573,102.646622,433,281,3448,41,25
+Yonif,Yonif 519,Sumatera Selatan,-3.315826,102.891376,761,235,2567,35,16
+Yonzipur,Yonzipur 260,Bali,-8.315851,115.10035,517,222,2111,50,14
+Bekangdam,Bekangdam 71,Nusa Tenggara Barat,-8.917192,117.516412,246,161,7782,59,11
+Yonkav,Yonkav 358,Bali,-8.338676,115.054513,333,337,3038,44,22
+Yonzipur,Yonzipur 143,Papua Pegunungan,-3.035998,138.391734,530,206,2512,49,19
+Yonkav,Yonkav 487,Aceh,4.258178,97.336137,487,301,3319,40,20
+Yonif,Yonif 61,Kalimantan Barat,-0.551172,109.676112,636,230,2693,35,15
+Yonkav,Yonkav 843,Aceh,4.958877,97.420863,407,236,3236,43,23
+Yonzipur,Yonzipur 537,Sulawesi Tenggara,-3.887423,122.151336,508,207,2579,44,15
+Yonif,Yonif 977,Daerah Istimewa Yogyakarta,-7.952629,110.740845,803,219,2296,37,20
+Denpal,Denpal 371,Maluku,-3.207154,127.87546,159,85,1126,27,16
+Bekangdam,Bekangdam 698,Sulawesi Tengah,-0.920471,122.828809,357,118,5886,48,11
+Yonzipur,Yonzipur 147,Sulawesi Tengah,-1.708264,121.129291,494,174,2489,42,17
+Yonzipur,Yonzipur 62,Kalimantan Timur,1.145762,116.752434,521,190,2512,55,17
+Yonarmed,Yonarmed 85,Sulawesi Utara,1.521847,125.137354,427,285,3142,40,20
+Denpal,Denpal 706,Kalimantan Selatan,-2.902519,115.939192,151,77,1592,24,10
+Yonarmed,Yonarmed 823,Sulawesi Tengah,-0.904966,121.537052,394,259,2951,31,21
+Denpal,Denpal 531,Kepulauan Riau,-0.383046,104.438425,173,85,1528,33,12
+Yonkav,Yonkav 740,Papua Barat,-2.024871,133.460488,461,298,2739,46,23
+Denpal,Denpal 924,Sumatera Utara,1.873207,99.491385,167,80,1770,24,13
+Yonkav,Yonkav 412,Kepulauan Bangka Belitung,-3.063393,107.958925,454,255,3649,40,23
+Denpal,Denpal 555,Sulawesi Selatan,-2.482495,119.788752,135,78,1973,26,14
+Yonarmed,Yonarmed 349,Maluku,-2.865252,128.759258,455,251,2852,38,20
+Bekangdam,Bekangdam 903,Aceh,2.689816,96.006232,347,162,6114,52,13
+Yonarmed,Yonarmed 681,Kepulauan Riau,1.015641,104.449099,515,258,3384,46,17
+Yonzipur,Yonzipur 184,Kalimantan Barat,1.161512,109.365132,515,173,2159,48,16
+Bekangdam,Bekangdam 258,Sumatera Utara,2.868306,99.923964,405,136,6485,56,11
+Yonif,Yonif 461,Kepulauan Bangka Belitung,-2.067046,105.88851,1062,180,2332,36,12
+Yonkav,Yonkav 430,Lampung,-4.64936,104.776995,485,203,3206,36,20
+Denpal,Denpal 222,Papua Pegunungan,-3.733267,139.464846,163,88,1514,28,12
+Yonzipur,Yonzipur 331,Papua Barat,-3.476274,134.185849,516,232,2789,54,19
+Yonarmed,Yonarmed 702,Sumatera Selatan,-4.228507,103.1655,525,251,2716,39,25
+Yonzipur,Yonzipur 206,Papua Barat,-3.470922,134.018337,498,207,3106,50,19
+Yonarmed,Yonarmed 799,Maluku,-3.059913,128.13855,466,242,2247,48,23
+Yonzipur,Yonzipur 367,Kepulauan Riau,0.808723,103.456216,640,178,2254,55,14
+Bekangdam,Bekangdam 566,Aceh,5.072413,96.438113,309,80,6329,49,13
+Yonif,Yonif 304,Aceh,4.869134,95.923676,790,199,2335,38,16
+Bekangdam,Bekangdam 500,Papua Barat Daya,-0.96907,130.817889,371,124,6258,48,12
+Bekangdam,Bekangdam 288,Maluku Utara,0.562062,127.948647,323,160,7214,54,11
+Yonkav,Yonkav 61,Kalimantan Utara,3.309301,115.704876,451,239,2791,53,25
+Yonif,Yonif 112,Sumatera Selatan,-2.756715,102.12014,908,259,2867,34,15
+Yonkav,Yonkav 15,Kalimantan Barat,-0.877181,111.555052,404,294,3223,47,20
+Yonzipur,Yonzipur 676,Sulawesi Tenggara,-3.460423,121.457485,549,258,3001,46,18
+Yonif,Yonif 939,Sumatera Barat,-1.249543,101.416282,897,190,2511,39,16
+Bekangdam,Bekangdam 750,Papua Barat,-2.618231,133.530341,404,131,8037,66,11
+Yonzipur,Yonzipur 816,Maluku Utara,-0.165725,127.797583,592,250,1817,42,18
+Yonarmed,Yonarmed 591,Kalimantan Timur,-0.302848,116.802614,569,272,2557,37,16
+Bekangdam,Bekangdam 566,Banten,-6.121378,106.308104,374,157,6798,55,8
+Yonarmed,Yonarmed 207,Sumatera Barat,-2.781299,100.082994,591,268,3586,29,22
+Yonarmed,Yonarmed 745,Bali,-8.798511,115.186149,446,197,2513,47,23
+Bekangdam,Bekangdam 785,Sulawesi Utara,4.127523,126.767879,285,142,6194,57,7
+Yonzipur,Yonzipur 537,Sulawesi Tengah,-1.408064,120.607422,560,209,3023,60,17
+Yonkav,Yonkav 153,Papua Barat,-3.775427,134.581939,419,244,3501,31,19
+Yonzipur,Yonzipur 251,Papua Tengah,-3.427752,137.041318,465,247,2978,49,16
+Bekangdam,Bekangdam 596,Kepulauan Riau,1.009141,104.328128,284,125,6631,49,10
+Yonkav,Yonkav 73,Nusa Tenggara Timur,-8.497997,122.07003,428,286,3868,35,16
+Yonzipur,Yonzipur 712,Kepulauan Riau,3.970857,108.020947,498,167,2545,44,15
+Bekangdam,Bekangdam 948,Sulawesi Barat,-3.172814,119.352198,358,106,5147,56,11
+Yonkav,Yonkav 499,Papua Pegunungan,-3.759901,139.132238,391,298,3252,37,27
+Bekangdam,Bekangdam 572,Sulawesi Utara,1.227196,124.651812,275,111,7328,45,13
+Bekangdam,Bekangdam 782,Kalimantan Tengah,-0.979323,113.751245,337,116,6707,42,13
+Bekangdam,Bekangdam 380,Jawa Timur,-8.117955,112.538473,320,127,7349,55,11
+Denpal,Denpal 217,Nusa Tenggara Timur,-8.71456,120.369607,152,97,1391,27,6
+Denpal,Denpal 462,Maluku,-3.260851,129.117404,186,94,2023,35,14
+Yonif,Yonif 930,Jawa Tengah,-7.282387,110.070357,937,273,1964,34,15
+Denpal,Denpal 435,Kalimantan Utara,3.061154,116.599603,168,88,1951,36,12
+Bekangdam,Bekangdam 836,Kalimantan Utara,2.394821,116.14786,381,123,7218,39,13
+Bekangdam,Bekangdam 233,Kalimantan Barat,-1.385385,110.633119,386,134,6937,38,12
+Bekangdam,Bekangdam 75,Maluku,-3.093585,129.216754,327,100,7313,48,8
+Yonarmed,Yonarmed 428,Sulawesi Selatan,-4.576574,120.096715,539,182,3526,33,20
+Yonarmed,Yonarmed 922,Sulawesi Tengah,-0.89381,122.855486,549,281,2230,36,22
+Bekangdam,Bekangdam 997,Kalimantan Utara,2.637941,116.291694,341,97,6349,62,14
+Yonif,Yonif 192,Sumatera Barat,0.805407,99.908297,934,176,3265,43,16
+Yonif,Yonif 784,Kepulauan Bangka Belitung,-2.00408,106.141797,800,190,2812,29,22
+Yonzipur,Yonzipur 554,Bengkulu,-3.563937,102.173328,688,216,3152,65,18
+Yonkav,Yonkav 292,Maluku,-3.149093,126.951009,523,342,4005,46,22
+Denpal,Denpal 794,Banten,-6.667853,105.570276,176,82,1615,30,15
+Denpal,Denpal 44,Sulawesi Barat,-3.253922,119.211921,198,97,1804,31,12
+Yonkav,Yonkav 768,Jawa Tengah,-7.350582,110.435248,437,297,3009,47,21
+Yonkav,Yonkav 782,Sulawesi Tenggara,-4.164923,121.896068,477,385,3322,46,20
+Bekangdam,Bekangdam 599,Nusa Tenggara Barat,-8.639157,118.942256,422,126,6778,43,14
+Yonkav,Yonkav 319,Aceh,4.766759,97.354894,476,296,3099,36,17
+Yonarmed,Yonarmed 291,Papua Selatan,-5.611594,138.668456,513,231,2758,40,12
+Bekangdam,Bekangdam 447,Kepulauan Bangka Belitung,-2.723256,106.029875,440,132,5598,43,11
+Bekangdam,Bekangdam 400,Aceh,5.315182,95.46618,341,148,7191,66,14
+Yonkav,Yonkav 317,Sumatera Barat,-1.206392,101.379362,389,314,3183,36,25
+Yonkav,Yonkav 317,Aceh,3.480086,97.684005,367,352,3814,35,27
+Yonzipur,Yonzipur 580,Kalimantan Timur,1.051142,118.007365,526,258,2752,42,16
+Yonkav,Yonkav 348,Riau,-0.711541,103.269308,310,333,3235,45,22
+Denpal,Denpal 751,Papua Tengah,-3.911326,137.173545,162,99,2200,32,15
+Denpal,Denpal 627,DKI Jakarta,-6.243545,106.883743,179,93,1288,34,12
+Denpal,Denpal 232,Kepulauan Bangka Belitung,-1.984941,105.858591,169,82,1427,34,11
+Yonkav,Yonkav 969,Maluku Utara,-1.570236,127.578382,393,271,2752,36,24
+Denpal,Denpal 730,Kalimantan Selatan,-2.382294,115.340286,162,80,1927,28,12
+Yonarmed,Yonarmed 399,Papua Barat Daya,-1.117179,133.145081,581,324,2826,35,20
+Yonarmed,Yonarmed 378,Maluku Utara,-1.894848,125.851456,507,253,3308,45,21
+Yonarmed,Yonarmed 946,Sumatera Barat,0.181905,100.525594,402,262,2778,44,16
+Denpal,Denpal 894,Kalimantan Barat,-2.507573,110.973456,133,71,1933,33,13
+Denpal,Denpal 603,Daerah Istimewa Yogyakarta,-8.08348,110.672147,128,64,1430,29,15
+Yonkav,Yonkav 398,Nusa Tenggara Timur,-8.340356,120.467365,450,331,3280,34,25
+Bekangdam,Bekangdam 355,Jawa Tengah,-7.135536,109.591981,308,125,6311,53,11
+Yonkav,Yonkav 760,Jawa Tengah,-7.630058,110.127263,405,257,3478,51,18
+Yonkav,Yonkav 948,Maluku Utara,1.539738,127.537579,394,260,4141,51,15
+Yonif,Yonif 977,Jambi,-1.735046,101.365304,862,150,2890,31,14
+Bekangdam,Bekangdam 246,Sulawesi Utara,1.049245,124.433132,289,127,6760,53,12
+Yonzipur,Yonzipur 392,Nusa Tenggara Timur,-10.150824,120.272341,594,188,2907,57,15
+Yonzipur,Yonzipur 685,Sulawesi Tenggara,-3.872892,121.536385,594,191,2974,49,20
+Yonzipur,Yonzipur 22,Sulawesi Utara,3.493127,125.533148,472,230,2506,61,14
+Yonif,Yonif 524,Kalimantan Barat,0.688019,110.123585,1058,243,2183,39,16
+Yonif,Yonif 546,Maluku,-3.614873,127.212176,940,213,2352,29,14
+Yonarmed,Yonarmed 844,Bengkulu,-2.704555,101.791462,422,278,3850,37,20
+Yonzipur,Yonzipur 480,Sulawesi Tenggara,-4.908668,122.935477,489,177,1523,54,14
+Bekangdam,Bekangdam 857,Kalimantan Selatan,-3.698977,114.905733,415,142,7577,61,16
+Yonzipur,Yonzipur 398,Jawa Tengah,-7.189559,110.098245,506,222,2074,49,13
+Yonif,Yonif 729,Sumatera Selatan,-3.891526,104.497013,1006,217,2931,24,15
+Yonarmed,Yonarmed 589,Nusa Tenggara Barat,-8.697134,119.005353,430,209,3138,31,25
+Bekangdam,Bekangdam 918,Jawa Timur,-7.966325,111.404299,372,132,7536,53,14
+Bekangdam,Bekangdam 957,Kalimantan Selatan,-2.564131,114.994323,321,118,5518,55,12
+Yonkav,Yonkav 961,Sumatera Utara,1.992322,98.442373,506,360,3263,33,22
+Bekangdam,Bekangdam 850,Bengkulu,-3.389027,102.564089,315,127,8232,47,12
+Yonkav,Yonkav 590,Bali,-8.281428,115.187949,361,269,3154,36,23
+Bekangdam,Bekangdam 153,Maluku Utara,0.614518,128.174473,369,103,7113,44,11
+Yonif,Yonif 457,Maluku,-3.193787,130.062297,856,250,2755,32,19
+Denpal,Denpal 416,Bali,-8.520582,115.450492,152,76,2200,33,9
+Yonzipur,Yonzipur 243,Maluku,-3.167839,127.864584,478,241,2834,41,17
+Bekangdam,Bekangdam 609,Daerah Istimewa Yogyakarta,-7.844389,110.265466,352,116,8537,53,12
+Yonkav,Yonkav 740,Riau,0.097337,102.95686,321,275,3773,30,20
+Bekangdam,Bekangdam 812,Papua Pegunungan,-4.959126,140.893362,371,124,7837,51,14
+Yonif,Yonif 103,Lampung,-5.063396,104.687395,996,147,2222,35,16
+Yonif,Yonif 145,Banten,-6.300172,105.917494,796,244,2788,33,16
+Denpal,Denpal 534,Bali,-8.735803,115.226065,147,82,1702,31,12
+Denpal,Denpal 105,Kepulauan Riau,4.097087,108.265549,191,73,1634,38,9
+Yonarmed,Yonarmed 433,Papua Barat,-0.811643,133.656555,449,240,2531,44,19
+Denpal,Denpal 183,Jawa Tengah,-6.755063,111.230617,179,76,1695,27,14
+Yonarmed,Yonarmed 284,Maluku,-3.616443,126.255723,516,261,3221,39,18
+Yonarmed,Yonarmed 441,Kalimantan Selatan,-2.485696,115.516737,410,295,2336,26,26
+Yonkav,Yonkav 748,Papua Barat Daya,-1.275877,130.958324,431,385,3344,44,26
+Yonzipur,Yonzipur 119,Maluku Utara,0.522023,127.800461,562,194,2597,44,17
+Denpal,Denpal 399,Sulawesi Tenggara,-4.048181,122.123045,149,103,1821,27,14
+Denpal,Denpal 149,Kepulauan Riau,1.07369,104.327952,189,66,1724,31,12
+Yonzipur,Yonzipur 331,Lampung,-5.457012,105.316113,438,170,2056,50,18
+Bekangdam,Bekangdam 512,Banten,-6.060192,106.492746,245,148,8098,33,10
+Yonzipur,Yonzipur 383,Papua Barat,-2.171984,133.394065,715,195,2656,47,15
+Yonkav,Yonkav 708,Jawa Tengah,-7.101554,111.299649,389,261,3191,52,23
+Yonarmed,Yonarmed 861,Sulawesi Tenggara,-4.664199,123.142341,406,246,2424,47,24
+Yonkav,Yonkav 658,Kepulauan Bangka Belitung,-1.607663,106.023613,471,250,3883,42,18
+Bekangdam,Bekangdam 443,DKI Jakarta,-6.184995,106.736956,236,145,6434,42,11
+Denpal,Denpal 420,Jambi,-1.777789,103.73966,154,77,1736,23,14
+Yonif,Yonif 819,Maluku,-3.703031,126.877057,875,240,2617,32,10
+Yonif,Yonif 121,Daerah Istimewa Yogyakarta,-7.867984,110.583401,859,247,2071,30,17
+Bekangdam,Bekangdam 637,Sumatera Barat,-1.333178,100.736175,362,147,6718,52,14
+Yonzipur,Yonzipur 780,Nusa Tenggara Barat,-8.463242,117.08377,500,239,2639,48,15
+Yonarmed,Yonarmed 237,Jawa Barat,-6.388375,106.465759,447,233,2899,40,20
+Denpal,Denpal 236,Riau,-0.756158,102.095595,165,92,1781,38,14
+Denpal,Denpal 717,Bengkulu,-4.332116,103.33224,156,80,1625,35,13
+Yonif,Yonif 312,Daerah Istimewa Yogyakarta,-7.889445,110.345884,987,203,2142,36,16
+Yonarmed,Yonarmed 361,Kalimantan Tengah,-2.15179,113.772509,402,274,2779,31,19

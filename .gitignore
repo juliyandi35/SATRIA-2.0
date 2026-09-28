@@ -1,0 +1,14 @@
+.env
+.venv/
+.venv-codex-3.12.14-backup/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
+static/dist/
+*.log
+system_audit.log
+checkpoints.db*
+*.tsbuildinfo
+graphify-out/

@@ -1,0 +1,521 @@
+RECORD_ID,CATEGORY,UNIT_NODE,LOCATION,LAT,LON,READINESS_IDX,STATUS
+ROW-0001,Logistics,Unit Bravo - 68,Sumatra,-0.7707,97.2728,61.6,VERIFIED
+ROW-0002,Training,Unit Alpha - 27,West Java,-4.2607,118.5334,63.3,FLAGGED
+ROW-0003,Personnel,Unit Alpha - 59,West Java,3.9119,109.8689,63.4,VERIFIED
+ROW-0004,Training,Unit Bravo - 25,Jakarta,-3.3347,118.5549,84.6,FLAGGED
+ROW-0005,Personnel,Unit Alpha - 12,East Java,4.9936,95.3027,66.0,VERIFIED
+ROW-0006,Training,Unit Echo - 93,Papua,-1.1499,109.9003,83.9,VERIFIED
+ROW-0007,Personnel,Unit Delta - 57,Jakarta,-8.7982,114.9494,95.4,VERIFIED
+ROW-0008,NULL,Unit Charlie - 83,Kalimantan,-6.5915,132.2207,89.8,FLAGGED
+ROW-0009,Personnel,Unit Delta - 73,Jakarta,-6.4284,102.7712,61.0,FLAGGED
+ROW-0010,Training,Unit Charlie - 44,Papua,-7.5826,120.3497,73.3,FLAGGED
+ROW-0011,Personnel,Unit Bravo - 39,Sumatra,-1.2804,105.3381,96.9,FLAGGED
+ROW-0012,Equipment,-,Jakarta,-8.6633,100.465,78.0,VERIFIED
+ROW-0013,Infrastructure,Unit Bravo - 7,East Java,0.0069,137.6491,58.5,FLAGGED
+ROW-0014,Personnel,Unit Charlie - 77,Sumatra,4.5206,133.3001,91.8,VERIFIED
+ROW-0015,Logistics,Unit Charlie - 72,KALIMANTAN,-3.7375,97.0975,72.8,VERIFIED
+ROW-0016,Infrastructure,Unit Bravo - 36,SULAWESI,-5.5585,96.5554,,VERIFIED
+ROW-0017,Personnel,Unit Bravo - 10,West Java,-1.0092,96.9429,,FLAGGED
+ROW-0018,Logistics,Unit Charlie - 78,Papua,-7.1967,138.494,76.0,VERIFIED
+ROW-0019,Infrastructure,Unit Delta - 84,Jakarta,-8.2103,116.1087,58.8,FLAGGED
+ROW-0020,Equipment,Unit Bravo - 46,Papua,2.1786,131.7184,75.4,VERIFIED
+ROW-0021,Logistics,Unit Delta - 28,Sumatra,-2.889,133.1063,92.5,FLAGGED
+ROW-0022,Personnel,Unit Alpha - 19,Papua,4.9795,115.6092,,
+ROW-0023,Training,Unit Alpha - 29,SULAWESI,-2.2856,123.27,84.5,FLAGGED
+ROW-0024,Personnel,Unit Charlie - 5,Sulawesi,1.2818,107.1346,82.9,VERIFIED
+ROW-0025,Infrastructure,Unit Charlie - 49,Jakarta,-1.5225,112.6347,59.3,FLAGGED
+ROW-0026,Infrastructure,Unit Bravo - 79,Kalimantan,3.5894,110.54,82.9,FLAGGED
+ROW-0027,Equipment,Unit Delta - 32,Jakarta,-7.6888,96.803,52.2,VERIFIED
+ROW-0028,Equipment,Unit Echo - 28,West Java,4.1443,114.9978,88.6,FLAGGED
+ROW-0029,Personnel,Unit Echo - 17,East Java,-8.4019,129.2142,74.6,FLAGGED
+ROW-0030,Equipment,Unit Alpha - 69,Papua,-1.2402,122.6013,56.5,VERIFIED
+ROW-0031,Personnel,,Kalimantan,-2.0845,134.9381,74.4,FLAGGED
+ROW-0032,Training,Unit Delta - 94,Jakarta,1.7462,114.3389,82.7,VERIFIED
+ROW-0033,Logistics,Unit Alpha - 35,Jakarta,-7.7677,99.6806,88.9,VERIFIED
+ROW-0034,training,Unit Bravo - 18,SUMATRA,2.9196,113.8752,56.6,VERIFIED
+ROW-0035,Logistics,,East Java,-7.729,124.8798,93.5,FLAGGED
+ROW-0036,Equipment,Unit Bravo - 44,East Java,-9.1587,137.5721,82.5,FLAGGED
+ROW-0037,Infrastructure,Unit Delta - 87,Kalimantan,4.1025,121.1616,79.2,FLAGGED
+ROW-0038,Infrastructure,Unit Bravo - 50,Kalimantan,0.0,0.0,53.4,FLAGGED
+ROW-0039,Training,Unit Alpha - 8,Sulawesi,-9.1755,127.1177,95.8,FLAGGED
+ROW-0040,Logistics,Unit Echo - 55,Sulawesi,-1.6652,128.7053,63.9,FLAGGED
+ROW-0041,Training,Unit Echo - 67,West Java,3.2249,113.1368,81.1,FLAGGED
+ROW-0042,Logistics,Unit Delta - 32,West Java,-1.504,124.4234,98.0,FLAGGED
+ROW-0043,Logistics,Unit Delta - 75,Papua,1.2204,111.5264,97.5,VERIFIED
+ROW-0044,Infrastructure,Unit Delta - 30,Kalimantan,-3.577,138.9126,74.1,FLAGGED
+ROW-0045,Training,Unit Alpha - 51,Kalimantan,4.2998,139.013,78.4,VERIFIED
+ROW-0046,Infrastructure,Unit Alpha - 69,Jakarta,4.1352,108.4457,52.4,VERIFIED
+ROW-0047,Infrastructure,Unit Delta - 33,East Java,0.0,0.0,66.7,VERIFIED
+ROW-0048,Logistics,Unit Echo - 67,Kalimantan,0.9075,135.7414,83.8,FLAGGED
+ROW-0049,Infrastructure,Unit Alpha - 62,Kalimantan,-0.966,121.591,92.7,FLAGGED
+ROW-0050,Infrastructure,NA,East Java,-2.7551,106.0183,84.7,VERIFIED
+ROW-0051,Equipment,Unit Bravo - 32,Kalimantan,1.2847,130.4008,91.5,FLAGGED
+ROW-0052,Personnel,Unit Delta - 8,Jakarta,-0.6852,104.6956,64.5,VERIFIED
+ROW-0053,personnel,Unit Delta - 70,Kalimantan,-3.5543,109.8623,96.5,VERIFIED
+ROW-0054,Logistics,Unit Echo - 66,Jakarta,-4.3543,98.2457,65.0,
+ROW-0055,Equipment,Unit Bravo - 48,Sulawesi,-5.2968,111.6482,94.6,FLAGGED
+ROW-0056,Personnel,Unit Echo - 21,Sulawesi,999.99,106.9016,89.4,FLAGGED
+ROW-0057,Logistics,Unit Alpha - 15,Jakarta,-3.3355,96.5878,61.4,FLAGGED
+ROW-0058,logistics,Unit Bravo - 32,Sumatra,2.4011,109.71,58.1,VERIFIED
+ROW-0059,Personnel,Unit Alpha - 19,Sulawesi,-6.1606,115.7183,68.4,FLAGGED
+ROW-0060,Equipment,Unit Alpha - 48,West Java,-2.1786,128.7547,97.6,VERIFIED
+ROW-0061,Logistics,Unit Echo - 96,Papua,-8.7102,110.7744,75.8,FLAGGED
+ROW-0062,Equipment,Unit Bravo - 25,Jakarta,-0.9526,115.7182,50.4,VERIFIED
+ROW-0063,Equipment,Unit Delta - 83,East Java,-8.0049,96.4056,76.0,VERIFIED
+ROW-0064,Training,NA,Papua,-1.0426,103.0898,93.3,FLAGGED
+ROW-0065,Equipment,Unit Echo - 55,Kalimantan,-3.0698,137.5036,61.2,FLAGGED
+ROW-0066,Personnel,Unit Bravo - 12,Papua,-7.9951,107.1338,73.1,FLAGGED
+ROW-0067,Equipment,Unit Echo - 29,Sumatra,-0.697,134.801,92.7,FLAGGED
+ROW-0068,equipment,Unit Charlie - 41,Kalimantan,-0.0616,98.5966,70.6,FLAGGED
+ROW-0069,Personnel,Unit Bravo - 23,East Java,-2.5924,116.7541,53.5,VERIFIED
+ROW-0070,Logistics,Unit Echo - 37,Sumatra,0.0,0.0,52.6,VERIFIED
+ROW-0071,Personnel,Unit Echo - 79,Papua,1.5264,124.3292,71.4,VERIFIED
+ROW-0072,,Unit Delta - 18,Sumatra,1.3442,117.6868,51.0,VERIFIED
+ROW-0073,Equipment,Unit Bravo - 85,Jakarta,-1.1482,104.2696,55.6,FLAGGED
+ROW-0074,Personnel,Unit Alpha - 80,West Java,-8.6667,130.4742,50.3,FLAGGED
+ROW-0075,,Unit Echo - 25,Jakarta,-1.0727,137.7158,95.3,FLAGGED
+ROW-0076,Personnel,Unit Charlie - 56,Sumatra,-5.1485,126.5146,57.9,FLAGGED
+ROW-0077,Logistics,Unit Delta - 99,Kalimantan,-7.485,109.2722,91.2,VERIFIED
+ROW-0078,Equipment,Unit Bravo - 34,Sumatra,0.6986,106.8699,94.6,FLAGGED
+ROW-0079,Logistics,Unit Charlie - 40,West Java,-9.0222,105.537,999.9,VERIFIED
+ROW-0080,Infrastructure,Unit Echo - 44,Kalimantan,-0.1871,127.5422,59.6,VERIFIED
+ROW-0081,Personnel,Unit Bravo - 21,Papua,3.9482,107.5379,99.8,VERIFIED
+ROW-0082,Personnel,NA,Kalimantan,4.1528,115.0603,95.6,VERIFIED
+ROW-0083,Personnel,Unit Bravo - 82,East Java,-2.7763,123.865,76.4,FLAGGED
+ROW-0084,Infrastructure,Unit Charlie - 96,Kalimantan,-4.9422,128.555,74.2,FLAGGED
+ROW-0085,Training,Unit Alpha - 91,Kalimantan,-0.1595,111.1711,82.1,FLAGGED
+ROW-0086,Training,Unit Charlie - 36,Papua,3.7808,117.1962,73.5,
+ROW-0087,Equipment,Unit Delta - 84,Papua,-1.7701,125.6536,71.7,FLAGGED
+ROW-0088,Logistics,Unit Echo - 19,Kalimantan,-5.7969,126.7692,92.8,FLAGGED
+ROW-0089,Training,Unit Alpha - 29,Kalimantan,3.3013,106.8939,76.9,FLAGGED
+ROW-0090,Personnel,Unit Delta - 8,West Java,0.3413,115.2013,58.0,FLAGGED
+ROW-0091,Training,NA,West Java,4.0235,103.4292,94.2,VERIFIED
+ROW-0092,Infrastructure,Unit Alpha - 89,Kalimantan,4.4439,126.2529,64.8,VERIFIED
+ROW-0093,Personnel,Unit Delta - 55,Sumatra,-4.27,112.8138,56.0,NULL
+ROW-0094,Training,Unit Delta - 60,Jakarta,0.0,0.0,64.4,FLAGGED
+ROW-0095,Equipment,Unit Charlie - 76,West Java,-9.7625,134.6988,92.2,FLAGGED
+ROW-0096,Personnel,Unit Delta - 50,Sulawesi,4.4964,110.0178,82.1,VERIFIED
+ROW-0097,Personnel,Unit Alpha - 99,West Java,-2.3023,117.7151,79.1,VERIFIED
+ROW-0098,Logistics,Unit Alpha - 96,Sumatra,0.0,0.0,,VERIFIED
+ROW-0099,Equipment,Unit Alpha - 40,Sulawesi,-8.8574,99.7657,88.1,FLAGGED
+ROW-0100,Personnel,Unit Delta - 76,West Java,3.9014,123.8606,90.0,VERIFIED
+ROW-0101,Personnel,Unit Charlie - 83,Papua,-1.1098,138.5941,53.0,FLAGGED
+ROW-0102,Infrastructure,Unit Alpha - 91,Sumatra,0.2716,108.6682,52.3,FLAGGED
+ROW-0103,Training,Unit Delta - 31,Sulawesi,-5.8716,136.9552,50.8,FLAGGED
+ROW-0104,Infrastructure,Unit Alpha - 55,Sulawesi,-3.9251,117.9982,51.2,FLAGGED
+ROW-0105,Logistics,Unit Echo - 30,Sumatra,-1.6842,139.9932,58.5,VERIFIED
+ROW-0106,Infrastructure,Unit Alpha - 58,West Java,-0.7591,118.2015,54.1,
+ROW-0107,Equipment,Unit Alpha - 51,West Java,-2.1811,129.3655,56.2,FLAGGED
+ROW-0108,Equipment,Unit Charlie - 18,West Java,-6.9265,128.2101,56.6,NA
+ROW-0109,Logistics,Unit Echo - 7,Jakarta,-8.5591,96.9704,64.4,VERIFIED
+ROW-0110,Personnel,Unit Delta - 67,Sulawesi,-0.971,132.7047,71.4,VERIFIED
+ROW-0111,,Unit Alpha - 27,East Java,-6.4907,132.9464,55.9,FLAGGED
+ROW-0112,,Unit Bravo - 94,Jakarta,1.1353,106.1805,86.2,VERIFIED
+ROW-0113,Personnel,Unit Charlie - 89,NA,-8.758,119.1148,74.3,FLAGGED
+ROW-0114,Personnel,Unit Alpha - 39,,4.5243,116.908,50.3,VERIFIED
+ROW-0115,Training,Unit Bravo - 94,East Java,3.2369,116.2301,60.3,VERIFIED
+ROW-0116,Personnel,Unit Charlie - 44,Papua,-0.5086,101.6694,79.5,FLAGGED
+ROW-0117,Personnel,Unit Bravo - 92,West Java,-0.8309,128.6617,-25.5,FLAGGED
+ROW-0118,Equipment,Unit Delta - 71,PAPUA,4.7788,107.8428,76.2,FLAGGED
+ROW-0119,Logistics,Unit Bravo - 21,Papua,4.5144,130.0377,68.5,FLAGGED
+ROW-0120,Logistics,Unit Delta - 64,Kalimantan,-8.269,120.0232,65.3,VERIFIED
+ROW-0121,Training,Unit Echo - 29,Kalimantan,-7.7436,131.2551,92.7,VERIFIED
+ROW-0122,Infrastructure,Unit Charlie - 67,West Java,-9.1571,109.8551,91.6,VERIFIED
+ROW-0123,Equipment,Unit Echo - 33,Kalimantan,2.9618,119.0587,98.2,FLAGGED
+ROW-0124,Equipment,Unit Bravo - 94,Sulawesi,-0.6797,115.5753,93.8,FLAGGED
+ROW-0125,Equipment,,Sumatra,3.8668,100.7209,99.7,VERIFIED
+ROW-0126,Personnel,Unit Delta - 98,Sulawesi,-1.5329,108.1486,86.3,VERIFIED
+ROW-0127,Equipment,Unit Delta - 54,Sumatra,-8.5355,110.9296,84.9,VERIFIED
+ROW-0128,Training,Unit Delta - 13,East Java,-1.6688,97.6971,53.6,FLAGGED
+ROW-0129,Equipment,Unit Echo - 36,West Java,0.6606,111.7233,94.9,VERIFIED
+ROW-0130,Logistics,Unit Alpha - 31,Jakarta,4.3741,120.8871,55.0,VERIFIED
+ROW-0131,Personnel,Unit Charlie - 47,Sulawesi,-3.5106,129.444,-25.5,FLAGGED
+ROW-0132,Equipment,Unit Delta - 99,Papua,-5.5924,102.4881,95.8,FLAGGED
+ROW-0133,Infrastructure,NULL,Sumatra,0.9919,110.4465,82.3,FLAGGED
+ROW-0134,Training,Unit Charlie - 65,East Java,-1.4071,139.8216,95.2,VERIFIED
+ROW-0135,Personnel,Unit Delta - 24,NA,2.5221,105.2398,62.8,VERIFIED
+ROW-0136,Equipment,Unit Alpha - 49,Sulawesi,3.1666,111.4522,61.3,FLAGGED
+ROW-0137,Training,Unit Delta - 85,East Java,-5.068,126.9012,63.1,FLAGGED
+ROW-0138,Logistics,Unit Bravo - 26,West Java,-2.7215,111.4619,62.5,VERIFIED
+ROW-0139,Logistics,Unit Charlie - 31,East Java,4.9551,97.638,-25.5,FLAGGED
+ROW-0140,Training,Unit Alpha - 1,Sumatra,-0.9219,102.0333,78.8,VERIFIED
+ROW-0141,Personnel,Unit Echo - 98,Kalimantan,0.0,0.0,61.6,VERIFIED
+ROW-0142,Training,Unit Charlie - 7,East Java,-2.4892,97.499,98.1,-
+ROW-0143,Personnel,Unit Alpha - 42,West Java,999.99,111.776,70.2,VERIFIED
+ROW-0144,Equipment,Unit Bravo - 87,Jakarta,-0.5849,139.9222,93.6,VERIFIED
+ROW-0145,Personnel,Unit Charlie - 9,Sumatra,-4.4313,106.0055,88.2,FLAGGED
+ROW-0146,Equipment,Unit Echo - 28,East Java,-3.2838,135.8004,72.9,
+ROW-0147,Equipment,Unit Alpha - 29,Sulawesi,-3.8106,120.46,82.1,FLAGGED
+ROW-0148,-,Unit Bravo - 7,Jakarta,-6.4084,128.7658,52.3,VERIFIED
+ROW-0149,Training,Unit Bravo - 44,East Java,-6.1142,115.7606,99.9,FLAGGED
+ROW-0150,Equipment,Unit Delta - 30,Kalimantan,1.1819,133.683,53.4,VERIFIED
+ROW-0151,Training,Unit Delta - 94,Jakarta,-1.6215,102.7729,83.1,
+ROW-0152,Personnel,Unit Alpha - 71,PAPUA,0.4572,97.8368,90.5,VERIFIED
+ROW-0153,,Unit Charlie - 66,West Java,4.1476,119.0547,51.4,VERIFIED
+ROW-0154,Logistics,Unit Charlie - 49,Kalimantan,-1.1217,118.4112,-25.5,VERIFIED
+ROW-0155,Training,Unit Echo - 23,Sumatra,-1.5489,115.1847,999.9,FLAGGED
+ROW-0156,Training,Unit Echo - 51,Jakarta,-3.533,98.8526,53.4,VERIFIED
+ROW-0157,Logistics,Unit Charlie - 96,Kalimantan,4.0782,98.3324,71.5,FLAGGED
+ROW-0158,Infrastructure,Unit Delta - 73,Sumatra,1.3416,134.9182,99.7,VERIFIED
+ROW-0159,Personnel,Unit Alpha - 20,Sulawesi,-2.2446,126.7475,86.5,FLAGGED
+ROW-0160,Training,Unit Delta - 9,Sulawesi,-7.6517,138.9592,55.7,VERIFIED
+ROW-0161,Equipment,Unit Charlie - 57,Kalimantan,0.0,0.0,86.1,VERIFIED
+ROW-0162,infrastructure,Unit Bravo - 67,Sumatra,-3.3906,97.7176,84.7,VERIFIED
+ROW-0163,Infrastructure,Unit Bravo - 66,East Java,-6.1279,96.496,57.8,FLAGGED
+ROW-0164,Infrastructure,Unit Bravo - 27,Kalimantan,0.0,0.0,76.8,FLAGGED
+ROW-0165,Equipment,Unit Charlie - 52,Jakarta,-8.7504,102.3043,80.4,VERIFIED
+ROW-0166,Personnel,Unit Alpha - 7,East Java,2.6569,134.4861,80.1,FLAGGED
+ROW-0167,Equipment,Unit Delta - 96,Kalimantan,2.7864,108.4313,51.8,VERIFIED
+ROW-0168,Training,Unit Alpha - 35,Papua,4.5283,105.8776,57.3,FLAGGED
+ROW-0169,Equipment,Unit Charlie - 85,Kalimantan,-7.9733,129.4657,68.9,VERIFIED
+ROW-0170,Infrastructure,Unit Alpha - 46,Kalimantan,1.8164,122.7394,73.0,VERIFIED
+ROW-0171,Logistics,Unit Charlie - 48,Kalimantan,1.9545,110.6512,57.2,FLAGGED
+ROW-0172,Logistics,,Sulawesi,3.741,129.377,94.6,VERIFIED
+ROW-0173,Infrastructure,Unit Alpha - 43,West Java,-0.819,131.6523,98.9,VERIFIED
+ROW-0174,Equipment,Unit Charlie - 45,Jakarta,0.4076,136.0539,70.3,NULL
+ROW-0175,Logistics,Unit Charlie - 83,West Java,-2.6122,132.0388,77.0,FLAGGED
+ROW-0176,Equipment,Unit Bravo - 27,Sulawesi,-2.1837,114.7601,64.6,VERIFIED
+ROW-0177,Equipment,Unit Delta - 11,Jakarta,-7.6403,119.9982,63.3,NA
+ROW-0178,Infrastructure,Unit Echo - 73,Sumatra,1.2659,120.0739,71.9,NULL
+ROW-0179,Personnel,Unit Alpha - 31,East Java,-0.3156,139.9586,61.3,-
+ROW-0180,personnel,Unit Charlie - 57,Sulawesi,-8.4659,113.4365,55.6,VERIFIED
+ROW-0181,Personnel,Unit Bravo - 36,East Java,-6.7718,112.3767,82.8,VERIFIED
+ROW-0182,Infrastructure,Unit Alpha - 16,East Java,0.1385,109.9806,93.5,FLAGGED
+ROW-0183,Logistics,Unit Charlie - 3,Papua,2.8332,114.8259,99.3,FLAGGED
+ROW-0184,Training,Unit Delta - 52,East Java,-9.1556,107.7437,87.6,FLAGGED
+ROW-0185,Infrastructure,Unit Alpha - 96,Sumatra,3.3398,111.4937,69.7,VERIFIED
+ROW-0186,Infrastructure,Unit Charlie - 2,Jakarta,-1.7452,135.5473,86.1,VERIFIED
+ROW-0187,Training,Unit Alpha - 39,Sulawesi,1.3632,111.6005,76.0,VERIFIED
+ROW-0188,Infrastructure,Unit Echo - 36,Jakarta,-2.7363,108.6836,,VERIFIED
+ROW-0189,Infrastructure,Unit Echo - 80,East Java,-5.2821,132.0347,77.5,VERIFIED
+ROW-0190,Training,Unit Delta - 43,Sumatra,-2.525,125.7435,64.2,FLAGGED
+ROW-0191,Logistics,Unit Alpha - 83,-,1.3598,109.6547,,FLAGGED
+ROW-0192,Logistics,Unit Charlie - 55,West Java,-2.3702,102.3093,86.2,VERIFIED
+ROW-0193,Logistics,Unit Charlie - 16,West Java,-4.4032,128.2627,81.9,FLAGGED
+ROW-0194,Logistics,Unit Delta - 86,Papua,-5.0064,106.6476,68.6,FLAGGED
+ROW-0195,NULL,Unit Delta - 85,East Java,-4.4351,117.1405,85.5,VERIFIED
+ROW-0196,Equipment,Unit Delta - 71,Jakarta,0.9508,131.5932,51.1,VERIFIED
+ROW-0197,Infrastructure,Unit Echo - 52,Sulawesi,4.2365,138.2288,81.2,FLAGGED
+ROW-0198,Training,Unit Delta - 60,Jakarta,-2.7234,135.2899,,VERIFIED
+ROW-0199,personnel,Unit Delta - 73,Kalimantan,-6.3386,118.0867,88.7,VERIFIED
+ROW-0200,equipment,Unit Echo - 15,Jakarta,-4.0933,108.7057,61.5,VERIFIED
+ROW-0201,Logistics,Unit Delta - 92,Papua,-1.0909,125.1278,54.2,FLAGGED
+ROW-0202,Equipment,Unit Charlie - 11,Sumatra,-1.1333,134.8045,56.5,FLAGGED
+ROW-0203,Logistics,Unit Alpha - 4,East Java,0.0,0.0,73.4,FLAGGED
+ROW-0204,Equipment,Unit Bravo - 7,Jakarta,2.6912,96.1059,75.3,VERIFIED
+ROW-0205,Logistics,Unit Alpha - 54,West Java,-1.1938,112.0051,85.0,VERIFIED
+ROW-0206,Personnel,Unit Delta - 19,Sulawesi,-5.0945,129.6574,83.4,FLAGGED
+ROW-0207,Training,Unit Alpha - 98,EAST JAVA,1.6351,100.0908,97.0,FLAGGED
+ROW-0208,Infrastructure,Unit Charlie - 18,Jakarta,-5.6089,113.9224,80.8,VERIFIED
+ROW-0209,Logistics,NULL,Kalimantan,3.9615,134.5295,71.1,VERIFIED
+ROW-0210,Equipment,Unit Charlie - 33,Papua,-1.8883,132.1213,98.2,VERIFIED
+ROW-0211,Personnel,Unit Echo - 8,West Java,-8.2123,128.99,87.4,FLAGGED
+ROW-0212,Training,Unit Bravo - 73,Sulawesi,-8.1305,102.1218,88.2,VERIFIED
+ROW-0213,Equipment,Unit Delta - 18,East Java,-1.903,100.2833,91.0,FLAGGED
+ROW-0214,Infrastructure,Unit Alpha - 75,Sulawesi,4.7666,123.1893,999.9,FLAGGED
+ROW-0215,Training,Unit Alpha - 12,Sulawesi,-9.8574,109.6132,95.3,VERIFIED
+ROW-0216,Training,Unit Charlie - 84,NA,0.5095,114.8695,82.4,FLAGGED
+ROW-0217,Logistics,Unit Charlie - 73,East Java,0.0,0.0,53.2,FLAGGED
+ROW-0218,Equipment,Unit Charlie - 16,Jakarta,0.7499,124.1811,85.7,VERIFIED
+ROW-0219,,Unit Delta - 79,JAKARTA,-1.6105,114.5068,61.9,FLAGGED
+ROW-0220,Training,Unit Bravo - 89,East Java,0.053,109.6457,97.0,FLAGGED
+ROW-0221,Logistics,Unit Delta - 44,NULL,-0.2411,135.2232,65.2,FLAGGED
+ROW-0222,Equipment,Unit Alpha - 62,East Java,3.8813,106.4971,95.8,FLAGGED
+ROW-0223,Infrastructure,Unit Echo - 89,Kalimantan,-8.6191,118.5637,70.0,FLAGGED
+ROW-0224,Equipment,Unit Alpha - 95,Papua,-9.5401,111.2188,79.8,FLAGGED
+ROW-0225,Infrastructure,Unit Bravo - 23,Kalimantan,-6.0757,116.229,55.3,FLAGGED
+ROW-0226,Logistics,NA,NULL,-2.5135,138.5845,72.7,FLAGGED
+ROW-0227,Logistics,Unit Charlie - 48,Sumatra,-8.9531,109.909,88.9,FLAGGED
+ROW-0228,Equipment,Unit Echo - 76,Sumatra,-9.8185,135.2084,73.0,-
+ROW-0229,Logistics,Unit Charlie - 29,Sulawesi,3.9283,102.4745,-25.5,VERIFIED
+ROW-0230,Infrastructure,NULL,West Java,0.0,0.0,77.5,FLAGGED
+ROW-0231,Infrastructure,,SULAWESI,-0.5068,128.5642,999.9,FLAGGED
+ROW-0232,Infrastructure,NA,Jakarta,2.1665,120.5599,68.2,VERIFIED
+ROW-0233,Infrastructure,Unit Bravo - 18,East Java,4.704,131.128,84.7,VERIFIED
+ROW-0234,Training,Unit Alpha - 90,West Java,-6.4379,107.2782,97.7,FLAGGED
+ROW-0235,Equipment,Unit Delta - 38,-,-3.6996,129.7297,61.7,VERIFIED
+ROW-0236,Equipment,Unit Delta - 91,Sumatra,3.1793,103.4659,51.1,VERIFIED
+ROW-0237,Logistics,Unit Delta - 67,Sumatra,-4.6008,111.8623,74.6,FLAGGED
+ROW-0238,Logistics,Unit Delta - 6,Sulawesi,-0.7442,120.4104,79.4,FLAGGED
+ROW-0239,NA,Unit Delta - 7,Jakarta,-7.6705,133.216,60.4,FLAGGED
+ROW-0240,Training,Unit Echo - 31,Sulawesi,3.9029,100.7142,86.6,FLAGGED
+ROW-0241,Equipment,Unit Delta - 93,Kalimantan,-0.9833,131.3268,63.3,FLAGGED
+ROW-0242,Infrastructure,Unit Bravo - 17,Sumatra,-6.5373,135.1802,76.3,VERIFIED
+ROW-0243,Equipment,Unit Echo - 12,,-4.2608,99.3485,,VERIFIED
+ROW-0244,Personnel,Unit Echo - 11,Sulawesi,3.9512,95.5708,77.7,VERIFIED
+ROW-0245,Personnel,Unit Delta - 20,Papua,-3.286,95.6129,72.9,FLAGGED
+ROW-0246,Infrastructure,Unit Charlie - 85,Sulawesi,-3.9771,117.1388,79.5,FLAGGED
+ROW-0247,Personnel,Unit Charlie - 7,East Java,-2.5366,119.431,55.2,VERIFIED
+ROW-0248,Personnel,Unit Alpha - 95,EAST JAVA,999.99,127.3817,62.5,VERIFIED
+ROW-0249,Logistics,Unit Echo - 66,Sulawesi,-7.8791,108.8252,63.7,VERIFIED
+ROW-0250,Infrastructure,Unit Charlie - 50,East Java,-1.1045,136.7548,89.8,FLAGGED
+ROW-0251,Equipment,Unit Alpha - 58,East Java,-2.3068,122.4819,61.8,VERIFIED
+ROW-0252,Training,Unit Delta - 3,Jakarta,-3.499,135.0981,97.6,FLAGGED
+ROW-0253,Personnel,Unit Bravo - 6,East Java,0.6558,136.2157,98.1,VERIFIED
+ROW-0254,Equipment,Unit Bravo - 30,Kalimantan,-0.0982,95.791,999.9,VERIFIED
+ROW-0255,Equipment,Unit Bravo - 48,East Java,-6.0635,121.2074,81.2,FLAGGED
+ROW-0256,Infrastructure,Unit Echo - 53,Kalimantan,-2.9049,137.526,89.9,FLAGGED
+ROW-0257,Infrastructure,Unit Delta - 21,Jakarta,-7.2843,103.7828,58.1,FLAGGED
+ROW-0258,Logistics,Unit Echo - 11,Kalimantan,-8.7767,128.0046,86.7,FLAGGED
+ROW-0259,Equipment,-,Sulawesi,-7.0723,127.9945,62.5,-
+ROW-0260,NA,Unit Delta - 90,East Java,-1.8472,119.7891,74.0,FLAGGED
+ROW-0261,Logistics,Unit Charlie - 67,Jakarta,-6.8952,124.936,81.8,-
+ROW-0262,Training,Unit Delta - 55,West Java,-2.7911,122.83,79.8,VERIFIED
+ROW-0263,Infrastructure,Unit Charlie - 26,East Java,-5.4718,121.6301,92.5,FLAGGED
+ROW-0264,Equipment,Unit Echo - 17,Papua,-2.4931,139.872,60.0,VERIFIED
+ROW-0265,Training,Unit Echo - 11,Jakarta,-3.0737,98.06,90.7,VERIFIED
+ROW-0266,Equipment,Unit Alpha - 91,Sumatra,-1.0017,137.7825,50.7,VERIFIED
+ROW-0267,Equipment,Unit Bravo - 2,Sulawesi,-1.7327,113.9945,75.0,VERIFIED
+ROW-0268,equipment,Unit Delta - 96,Papua,4.9186,107.2728,92.5,FLAGGED
+ROW-0269,Personnel,Unit Delta - 51,Sulawesi,3.7506,101.4537,99.9,VERIFIED
+ROW-0270,Personnel,Unit Delta - 13,East Java,-7.1291,136.9736,86.2,FLAGGED
+ROW-0271,Training,Unit Alpha - 73,Papua,-6.8633,102.4893,999.9,FLAGGED
+ROW-0272,Logistics,Unit Alpha - 13,Sumatra,0.3356,139.6141,91.2,VERIFIED
+ROW-0273,NA,Unit Delta - 25,East Java,1.1676,120.0568,77.7,VERIFIED
+ROW-0274,Personnel,Unit Charlie - 27,Papua,2.5497,98.836,99.7,VERIFIED
+ROW-0275,Training,-,East Java,1.1486,136.5505,73.0,FLAGGED
+ROW-0276,Personnel,Unit Alpha - 65,SUMATRA,-0.1634,106.8796,74.3,NULL
+ROW-0277,Training,Unit Bravo - 59,Kalimantan,-7.3367,121.7387,73.3,VERIFIED
+ROW-0278,Infrastructure,Unit Delta - 48,Sumatra,-1.7802,119.3992,72.6,VERIFIED
+ROW-0279,Training,Unit Echo - 24,Papua,-3.403,105.3649,-25.5,VERIFIED
+ROW-0280,Personnel,Unit Charlie - 62,Sumatra,-1.6425,124.7831,75.1,
+ROW-0281,Infrastructure,Unit Charlie - 86,-,0.5216,104.1167,88.8,VERIFIED
+ROW-0282,Equipment,Unit Alpha - 95,West Java,-4.0748,107.7337,91.1,VERIFIED
+ROW-0283,Equipment,Unit Charlie - 47,,2.3167,131.1719,80.9,VERIFIED
+ROW-0284,Personnel,Unit Echo - 42,East Java,4.0493,95.2845,85.5,FLAGGED
+ROW-0285,Equipment,Unit Bravo - 58,Jakarta,3.3222,101.17,52.7,VERIFIED
+ROW-0286,Equipment,Unit Bravo - 70,-,4.5045,96.3737,58.6,VERIFIED
+ROW-0287,Equipment,Unit Echo - 71,Sumatra,-3.407,101.1787,60.6,FLAGGED
+ROW-0288,Equipment,Unit Charlie - 19,PAPUA,3.8371,125.1814,83.8,FLAGGED
+ROW-0289,Training,Unit Alpha - 50,Sulawesi,-9.4561,131.4008,96.0,FLAGGED
+ROW-0290,Logistics,Unit Bravo - 91,East Java,-0.1614,105.3424,62.1,VERIFIED
+ROW-0291,training,Unit Echo - 33,Papua,2.6783,96.5721,65.9,VERIFIED
+ROW-0292,Personnel,Unit Delta - 28,KALIMANTAN,3.3711,97.6679,76.3,FLAGGED
+ROW-0293,Equipment,Unit Bravo - 42,East Java,-1.6161,98.0507,82.3,FLAGGED
+ROW-0294,Logistics,Unit Echo - 11,Sumatra,-3.7428,115.6879,76.7,FLAGGED
+ROW-0295,Personnel,Unit Charlie - 72,,0.6768,113.9821,79.1,FLAGGED
+ROW-0296,Training,Unit Delta - 51,Sulawesi,-7.07,96.849,60.7,VERIFIED
+ROW-0297,Personnel,Unit Echo - 55,Sumatra,-2.0714,134.938,83.5,VERIFIED
+ROW-0298,Logistics,Unit Bravo - 14,Sumatra,-4.5348,103.5952,63.6,FLAGGED
+ROW-0299,Personnel,Unit Delta - 30,West Java,-8.1802,114.1727,56.7,VERIFIED
+ROW-0300,NA,Unit Charlie - 8,Jakarta,-7.2672,136.1099,57.9,FLAGGED
+ROW-0301,Infrastructure,Unit Bravo - 92,West Java,-1.6511,123.3205,77.4,FLAGGED
+ROW-0302,Personnel,NA,West Java,-0.8815,136.2055,63.8,FLAGGED
+ROW-0303,Equipment,Unit Bravo - 75,West Java,-8.7194,109.39,,VERIFIED
+ROW-0304,Logistics,Unit Echo - 72,Sulawesi,-9.1017,134.4791,66.7,VERIFIED
+ROW-0305,Logistics,Unit Alpha - 76,EAST JAVA,-4.1726,108.1367,90.9,VERIFIED
+ROW-0306,training,Unit Alpha - 30,East Java,-6.3073,133.8289,73.0,VERIFIED
+ROW-0307,,Unit Bravo - 16,Kalimantan,3.6258,105.1176,70.4,VERIFIED
+ROW-0308,Equipment,Unit Alpha - 25,Papua,-9.3962,112.232,64.0,VERIFIED
+ROW-0309,Infrastructure,Unit Charlie - 76,Papua,0.0856,133.3778,74.0,FLAGGED
+ROW-0310,Infrastructure,NULL,Sumatra,-7.8474,135.4643,82.1,FLAGGED
+ROW-0311,Equipment,NA,East Java,999.99,97.0509,68.7,FLAGGED
+ROW-0312,equipment,Unit Delta - 60,Jakarta,-6.2439,112.4986,78.7,FLAGGED
+ROW-0313,Equipment,Unit Alpha - 76,Papua,-4.0971,120.7167,59.5,VERIFIED
+ROW-0314,Training,Unit Charlie - 19,Sulawesi,-1.0763,104.4805,57.3,VERIFIED
+ROW-0315,Training,Unit Charlie - 98,Sumatra,0.9266,122.038,73.9,FLAGGED
+ROW-0316,Logistics,Unit Alpha - 98,Sumatra,0.0822,130.4636,87.2,VERIFIED
+ROW-0317,Training,Unit Charlie - 77,JAKARTA,-6.5426,104.2955,82.0,VERIFIED
+ROW-0318,training,Unit Bravo - 40,East Java,-6.8519,126.9225,63.7,FLAGGED
+ROW-0319,Equipment,Unit Alpha - 32,Papua,999.99,134.4567,99.4,VERIFIED
+ROW-0320,Infrastructure,Unit Charlie - 22,Kalimantan,1.7274,108.7646,98.0,VERIFIED
+ROW-0321,Personnel,Unit Alpha - 49,Sulawesi,-8.4717,121.029,81.8,VERIFIED
+ROW-0322,personnel,Unit Echo - 83,Kalimantan,-4.7475,121.7221,94.3,VERIFIED
+ROW-0323,Training,Unit Alpha - 4,West Java,1.7131,139.4644,75.9,FLAGGED
+ROW-0324,Equipment,Unit Alpha - 47,Jakarta,-3.088,100.4587,94.1,FLAGGED
+ROW-0325,Infrastructure,Unit Echo - 21,Jakarta,0.8254,136.7532,80.3,VERIFIED
+ROW-0326,Logistics,Unit Alpha - 44,West Java,0.0,0.0,999.9,-
+ROW-0327,Training,Unit Charlie - 83,West Java,0.0,0.0,64.3,FLAGGED
+ROW-0328,Equipment,Unit Bravo - 40,Papua,-1.9546,107.0594,74.0,VERIFIED
+ROW-0329,Personnel,Unit Echo - 41,SUMATRA,-8.3326,126.7802,96.8,VERIFIED
+ROW-0330,Personnel,Unit Delta - 85,Jakarta,-1.7455,99.1355,95.5,FLAGGED
+ROW-0331,Personnel,Unit Echo - 38,Sumatra,-0.7944,123.4612,95.1,FLAGGED
+ROW-0332,Logistics,Unit Echo - 19,Sumatra,4.6051,118.2577,62.8,VERIFIED
+ROW-0333,Training,,East Java,-9.5248,127.4895,77.2,FLAGGED
+ROW-0334,Logistics,Unit Alpha - 53,KALIMANTAN,-2.7887,138.1388,76.6,FLAGGED
+ROW-0335,Logistics,Unit Charlie - 34,Sulawesi,-6.7229,110.6377,56.7,VERIFIED
+ROW-0336,NULL,Unit Bravo - 45,West Java,-8.9036,124.8135,61.4,FLAGGED
+ROW-0337,Infrastructure,Unit Echo - 24,Kalimantan,-4.8757,112.3011,51.7,FLAGGED
+ROW-0338,Logistics,Unit Charlie - 72,East Java,999.99,104.2584,54.1,VERIFIED
+ROW-0339,Personnel,Unit Charlie - 43,Jakarta,-3.6077,129.6418,88.8,VERIFIED
+ROW-0340,Personnel,Unit Charlie - 27,East Java,-9.2077,110.5566,88.7,FLAGGED
+ROW-0341,Logistics,Unit Delta - 43,Papua,4.4257,107.3283,96.3,FLAGGED
+ROW-0342,Equipment,Unit Charlie - 77,Papua,-2.8671,101.0588,62.9,FLAGGED
+ROW-0343,Equipment,Unit Delta - 85,East Java,2.0043,133.9814,80.2,FLAGGED
+ROW-0344,Training,Unit Echo - 87,Sulawesi,-0.7176,105.8284,59.7,FLAGGED
+ROW-0345,personnel,Unit Alpha - 46,East Java,2.6304,139.3197,86.9,FLAGGED
+ROW-0346,Personnel,Unit Delta - 92,Kalimantan,-0.3168,118.4158,59.1,FLAGGED
+ROW-0347,Training,Unit Charlie - 97,West Java,-9.8255,133.553,61.8,VERIFIED
+ROW-0348,Personnel,Unit Delta - 97,Jakarta,3.171,124.3541,92.2,FLAGGED
+ROW-0349,-,Unit Echo - 51,Sulawesi,3.6325,107.3445,90.6,FLAGGED
+ROW-0350,Logistics,Unit Bravo - 10,Sumatra,-2.4101,129.7905,60.6,FLAGGED
+ROW-0351,Training,Unit Charlie - 26,Jakarta,-9.2085,121.0748,55.8,VERIFIED
+ROW-0352,Personnel,Unit Delta - 35,NULL,-6.6977,114.0824,82.6,FLAGGED
+ROW-0353,training,Unit Bravo - 55,WEST JAVA,-2.017,127.2328,84.7,VERIFIED
+ROW-0354,Logistics,Unit Echo - 46,Sumatra,1.5637,125.0444,-25.5,FLAGGED
+ROW-0355,equipment,Unit Charlie - 25,East Java,3.2695,139.4116,57.2,VERIFIED
+ROW-0356,Infrastructure,Unit Delta - 18,Papua,-9.1207,96.7435,,FLAGGED
+ROW-0357,Personnel,Unit Echo - 79,JAKARTA,-3.1716,106.0549,74.2,VERIFIED
+ROW-0358,Infrastructure,Unit Charlie - 36,Papua,-9.1112,121.1643,91.3,FLAGGED
+ROW-0359,Infrastructure,Unit Alpha - 99,Kalimantan,3.1994,104.8921,97.7,VERIFIED
+ROW-0360,Personnel,Unit Bravo - 33,Sumatra,-0.6211,95.1047,94.1,VERIFIED
+ROW-0361,Logistics,Unit Alpha - 41,West Java,-7.3861,133.4688,59.7,VERIFIED
+ROW-0362,Training,Unit Delta - 21,-,-6.4571,139.1973,79.2,VERIFIED
+ROW-0363,infrastructure,Unit Alpha - 83,Sumatra,2.1374,101.4936,73.1,VERIFIED
+ROW-0364,Logistics,Unit Delta - 83,Sulawesi,3.2686,110.8903,85.2,FLAGGED
+ROW-0365,-,Unit Delta - 13,West Java,-6.39,109.4746,83.6,VERIFIED
+ROW-0366,Training,Unit Delta - 62,West Java,-8.4739,134.45,999.9,-
+ROW-0367,Infrastructure,Unit Alpha - 29,East Java,-4.8344,97.2558,68.4,VERIFIED
+ROW-0368,Training,Unit Charlie - 66,Papua,-8.1347,130.8114,57.3,FLAGGED
+ROW-0369,Personnel,Unit Bravo - 61,NULL,-9.9121,139.0193,98.4,FLAGGED
+ROW-0370,Personnel,Unit Charlie - 64,Jakarta,-7.4677,100.6996,91.8,FLAGGED
+ROW-0371,Equipment,Unit Charlie - 5,Sumatra,1.7016,112.2146,96.2,FLAGGED
+ROW-0372,Training,Unit Delta - 13,Papua,0.8236,95.2365,62.2,VERIFIED
+ROW-0373,Logistics,NA,Papua,-4.1816,124.151,72.3,FLAGGED
+ROW-0374,Personnel,Unit Alpha - 44,,3.8939,96.745,98.8,VERIFIED
+ROW-0375,Personnel,Unit Bravo - 46,West Java,3.2911,106.7492,59.4,VERIFIED
+ROW-0376,Personnel,NA,West Java,-5.1325,129.1352,73.9,VERIFIED
+ROW-0377,Infrastructure,Unit Bravo - 13,East Java,-0.3956,102.7803,91.8,FLAGGED
+ROW-0378,Training,Unit Charlie - 9,Papua,-5.3712,129.4581,-25.5,VERIFIED
+ROW-0379,Personnel,Unit Alpha - 57,West Java,3.6077,104.2035,59.8,FLAGGED
+ROW-0380,Equipment,Unit Alpha - 22,West Java,-9.3472,121.676,70.8,VERIFIED
+ROW-0381,Training,Unit Delta - 68,NULL,-8.629,118.0351,64.6,NULL
+ROW-0382,Logistics,Unit Charlie - 26,Kalimantan,4.629,113.311,63.7,FLAGGED
+ROW-0383,Infrastructure,Unit Echo - 38,Jakarta,4.2115,120.7648,98.2,FLAGGED
+ROW-0384,Personnel,Unit Echo - 99,Jakarta,-0.246,131.8351,51.9,VERIFIED
+ROW-0385,Infrastructure,Unit Echo - 47,Sumatra,-4.7785,138.1398,54.2,FLAGGED
+ROW-0386,Logistics,Unit Delta - 21,East Java,-3.5775,137.7749,56.5,FLAGGED
+ROW-0387,Logistics,Unit Echo - 69,Papua,-6.8201,95.4879,999.9,VERIFIED
+ROW-0388,Training,Unit Charlie - 70,East Java,-7.3577,131.4832,60.6,-
+ROW-0389,Personnel,Unit Bravo - 67,Kalimantan,-2.9613,124.5185,90.1,VERIFIED
+ROW-0390,infrastructure,Unit Bravo - 20,Jakarta,0.56,95.3643,55.9,VERIFIED
+ROW-0391,Training,Unit Alpha - 78,Jakarta,-7.9948,107.7377,999.9,FLAGGED
+ROW-0392,Training,Unit Bravo - 64,West Java,-6.9814,123.709,64.4,FLAGGED
+ROW-0393,Equipment,Unit Delta - 2,Papua,-4.6743,119.0988,64.8,VERIFIED
+ROW-0394,Personnel,Unit Charlie - 20,Sumatra,0.0,0.0,95.5,FLAGGED
+ROW-0395,Personnel,Unit Bravo - 84,Papua,-6.172,133.0672,54.8,VERIFIED
+ROW-0396,Training,Unit Echo - 93,Sulawesi,2.0704,134.0932,64.9,VERIFIED
+ROW-0397,Training,Unit Charlie - 41,Papua,-4.3939,103.219,78.5,VERIFIED
+ROW-0398,Training,Unit Bravo - 93,Kalimantan,4.4543,129.2883,90.1,FLAGGED
+ROW-0399,Logistics,Unit Echo - 97,East Java,-0.9025,109.761,90.3,FLAGGED
+ROW-0400,Infrastructure,Unit Alpha - 4,Papua,1.4649,136.1828,67.5,VERIFIED
+ROW-0401,Training,Unit Echo - 3,-,3.7885,117.3165,98.7,VERIFIED
+ROW-0402,Personnel,Unit Charlie - 37,Kalimantan,1.1453,111.5062,92.0,FLAGGED
+ROW-0403,Infrastructure,Unit Alpha - 29,Papua,-2.4509,114.8288,-25.5,VERIFIED
+ROW-0404,Training,Unit Charlie - 94,Papua,0.508,99.0899,82.6,VERIFIED
+ROW-0405,Logistics,Unit Charlie - 62,East Java,3.9265,99.0616,96.6,FLAGGED
+ROW-0406,,Unit Delta - 58,Papua,-8.8205,105.9852,79.7,VERIFIED
+ROW-0407,Training,Unit Bravo - 26,West Java,1.2303,114.6791,66.9,VERIFIED
+ROW-0408,Infrastructure,Unit Alpha - 88,Sumatra,-8.8689,136.9182,72.6,VERIFIED
+ROW-0409,Personnel,Unit Delta - 76,NA,999.99,125.9512,51.9,
+ROW-0410,Logistics,Unit Delta - 64,Sumatra,-9.0223,95.4936,91.5,VERIFIED
+ROW-0411,Infrastructure,,Papua,-6.3081,102.4284,99.9,FLAGGED
+ROW-0412,Equipment,Unit Delta - 79,SULAWESI,-9.5846,109.9145,93.5,VERIFIED
+ROW-0413,Equipment,Unit Echo - 54,Sulawesi,3.4362,134.9291,86.7,FLAGGED
+ROW-0414,Logistics,Unit Delta - 42,Kalimantan,-0.1985,126.7486,58.0,FLAGGED
+ROW-0415,Training,Unit Alpha - 10,Kalimantan,4.2906,113.923,51.8,FLAGGED
+ROW-0416,Infrastructure,Unit Delta - 66,Sulawesi,-4.5658,131.9463,51.7,FLAGGED
+ROW-0417,Infrastructure,Unit Bravo - 28,Papua,-6.0627,132.4232,60.5,VERIFIED
+ROW-0418,Personnel,Unit Bravo - 60,West Java,-0.5883,126.2007,77.6,VERIFIED
+ROW-0419,Training,Unit Alpha - 48,Jakarta,-9.7733,115.4642,96.2,VERIFIED
+ROW-0420,Training,Unit Charlie - 7,West Java,-0.0396,106.5209,97.6,FLAGGED
+ROW-0421,Equipment,Unit Echo - 44,-,-1.6109,112.9594,50.4,VERIFIED
+ROW-0422,Logistics,Unit Alpha - 89,Sulawesi,-0.9518,135.6737,76.8,VERIFIED
+ROW-0423,Infrastructure,Unit Delta - 95,Papua,-1.5002,118.441,56.8,FLAGGED
+ROW-0424,Equipment,Unit Echo - 42,Kalimantan,-4.1217,100.1858,85.9,VERIFIED
+ROW-0425,Infrastructure,Unit Bravo - 39,Sumatra,-9.9372,112.821,58.9,FLAGGED
+ROW-0426,logistics,Unit Delta - 83,Kalimantan,0.5686,131.2087,83.1,VERIFIED
+ROW-0427,Infrastructure,Unit Alpha - 99,NA,0.0,0.0,65.4,FLAGGED
+ROW-0428,equipment,Unit Echo - 19,Jakarta,2.9093,118.9574,86.8,VERIFIED
+ROW-0429,Infrastructure,Unit Echo - 45,Sulawesi,-1.8534,96.4914,55.7,FLAGGED
+ROW-0430,Infrastructure,Unit Charlie - 73,West Java,-4.8991,95.4538,72.8,VERIFIED
+ROW-0431,Infrastructure,Unit Alpha - 44,JAKARTA,-2.1578,124.3614,56.0,FLAGGED
+ROW-0432,NA,Unit Bravo - 71,,-2.9341,121.5757,79.9,FLAGGED
+ROW-0433,Equipment,Unit Charlie - 98,East Java,-9.5931,125.6435,83.5,VERIFIED
+ROW-0434,Personnel,Unit Echo - 15,East Java,-9.6578,127.4557,88.7,FLAGGED
+ROW-0435,Logistics,Unit Echo - 20,West Java,-1.2242,123.5149,86.3,VERIFIED
+ROW-0436,NULL,Unit Bravo - 84,Jakarta,999.99,136.0796,51.7,FLAGGED
+ROW-0437,Infrastructure,NULL,Sumatra,-4.6517,104.4553,94.8,FLAGGED
+ROW-0438,Personnel,Unit Echo - 66,West Java,3.3709,115.5583,55.9,VERIFIED
+ROW-0439,Personnel,Unit Delta - 34,Kalimantan,-4.2598,139.3616,60.8,VERIFIED
+ROW-0440,Training,Unit Charlie - 11,Sumatra,2.8709,107.3529,78.8,FLAGGED
+ROW-0441,Personnel,Unit Alpha - 14,East Java,-8.9054,97.156,85.9,VERIFIED
+ROW-0442,Equipment,Unit Echo - 73,East Java,-4.6068,99.6645,72.7,FLAGGED
+ROW-0443,Equipment,Unit Alpha - 64,East Java,-5.4515,106.4128,80.4,FLAGGED
+ROW-0444,Personnel,Unit Bravo - 37,East Java,-5.6376,135.2674,98.4,FLAGGED
+ROW-0445,Equipment,Unit Charlie - 80,Jakarta,4.239,127.3711,74.7,VERIFIED
+ROW-0446,logistics,Unit Bravo - 48,West Java,4.4073,115.9437,87.7,FLAGGED
+ROW-0447,Training,Unit Alpha - 64,East Java,1.0751,126.0677,61.6,FLAGGED
+ROW-0448,Infrastructure,Unit Alpha - 39,Jakarta,999.99,99.2866,59.6,FLAGGED
+ROW-0449,Equipment,Unit Alpha - 7,Papua,-7.9871,127.2573,97.4,FLAGGED
+ROW-0450,na,Unit Alpha - 95,Sumatra,-3.0871,120.7454,68.5,VERIFIED
+ROW-0451,Logistics,Unit Bravo - 48,,-8.4819,101.9789,97.6,VERIFIED
+ROW-0452,Equipment,Unit Echo - 14,East Java,-4.2838,124.1372,67.9,FLAGGED
+ROW-0453,Training,Unit Alpha - 66,East Java,-6.9276,128.587,86.2,FLAGGED
+ROW-0454,Training,Unit Echo - 81,Sumatra,-9.9558,124.7668,60.8,VERIFIED
+ROW-0455,Equipment,Unit Alpha - 23,Sulawesi,-9.9636,134.7936,95.5,VERIFIED
+ROW-0456,Equipment,Unit Bravo - 12,West Java,4.9756,118.4109,60.4,VERIFIED
+ROW-0457,Infrastructure,Unit Bravo - 61,Papua,-3.5687,115.4961,63.1,VERIFIED
+ROW-0458,Infrastructure,Unit Charlie - 1,Papua,999.99,119.2451,66.2,VERIFIED
+ROW-0459,Personnel,Unit Echo - 20,East Java,-9.7345,95.9895,67.8,FLAGGED
+ROW-0460,Training,Unit Bravo - 25,East Java,-7.7735,99.4593,79.0,VERIFIED
+ROW-0461,Training,Unit Echo - 83,West Java,-2.57,135.8854,74.2,FLAGGED
+ROW-0462,Logistics,Unit Delta - 41,Sumatra,-4.4138,138.4965,93.1,FLAGGED
+ROW-0463,Logistics,Unit Echo - 27,Sumatra,1.4056,97.472,92.2,VERIFIED
+ROW-0464,Equipment,Unit Bravo - 32,Jakarta,1.9522,100.4899,-25.5,VERIFIED
+ROW-0465,Infrastructure,Unit Charlie - 97,Papua,4.2138,97.7082,67.1,VERIFIED
+ROW-0466,Training,Unit Alpha - 72,Papua,3.4955,99.3286,81.7,VERIFIED
+ROW-0467,Infrastructure,Unit Charlie - 14,Jakarta,-1.7375,119.1625,53.6,FLAGGED
+ROW-0468,Logistics,Unit Delta - 5,Papua,-9.8486,113.5543,61.8,VERIFIED
+ROW-0469,Logistics,Unit Bravo - 79,Papua,-5.3153,120.7063,92.9,FLAGGED
+ROW-0470,Equipment,Unit Echo - 51,Sumatra,4.4893,115.4986,97.8,FLAGGED
+ROW-0471,Logistics,Unit Echo - 11,Jakarta,-4.8101,128.3549,59.4,FLAGGED
+ROW-0472,Equipment,Unit Delta - 59,Sulawesi,-4.0482,97.1349,53.3,FLAGGED
+ROW-0473,Personnel,Unit Echo - 7,East Java,-3.4083,138.1963,80.6,FLAGGED
+ROW-0474,Personnel,Unit Charlie - 76,Sumatra,-4.7462,139.9533,52.2,VERIFIED
+ROW-0475,NULL,Unit Charlie - 15,Jakarta,-8.007,120.5409,57.0,VERIFIED
+ROW-0476,Infrastructure,Unit Alpha - 7,Papua,-6.7819,112.627,64.4,VERIFIED
+ROW-0477,Personnel,Unit Echo - 45,West Java,2.0322,138.4083,91.5,VERIFIED
+ROW-0478,Equipment,Unit Alpha - 79,West Java,1.696,114.682,72.7,FLAGGED
+ROW-0479,NA,Unit Bravo - 19,Papua,-6.9426,131.6666,90.5,FLAGGED
+ROW-0480,Logistics,Unit Echo - 15,East Java,-4.932,126.4592,97.3,FLAGGED
+ROW-0481,Personnel,Unit Charlie - 38,East Java,-1.328,103.42,95.4,FLAGGED
+ROW-0482,Equipment,Unit Delta - 73,West Java,1.6936,114.9715,61.6,FLAGGED
+ROW-0483,Infrastructure,Unit Charlie - 79,Sumatra,-4.5403,109.0936,67.8,FLAGGED
+ROW-0484,Infrastructure,Unit Delta - 83,East Java,-0.6868,102.7632,80.5,FLAGGED
+ROW-0485,Infrastructure,Unit Charlie - 32,SUMATRA,-8.2217,139.885,67.8,VERIFIED
+ROW-0486,Logistics,Unit Alpha - 3,Jakarta,-1.6416,106.1499,92.3,FLAGGED
+ROW-0487,Logistics,Unit Charlie - 24,EAST JAVA,3.9548,97.6748,52.7,FLAGGED
+ROW-0488,Training,Unit Echo - 21,West Java,1.0857,108.9069,71.9,VERIFIED
+ROW-0489,Logistics,Unit Delta - 56,Papua,-5.007,99.0986,91.9,FLAGGED
+ROW-0490,,Unit Alpha - 27,NULL,-9.8329,139.6691,51.9,VERIFIED
+ROW-0491,training,Unit Alpha - 50,Sulawesi,-4.4981,99.193,77.3,VERIFIED
+ROW-0492,Personnel,Unit Alpha - 84,Sulawesi,-2.3404,131.487,73.9,FLAGGED
+ROW-0493,Training,Unit Delta - 15,Sumatra,0.57,133.0503,55.3,VERIFIED
+ROW-0494,Personnel,Unit Delta - 31,East Java,-9.6447,101.3746,94.2,-
+ROW-0495,Logistics,Unit Alpha - 33,East Java,-9.1791,136.2895,54.2,FLAGGED
+ROW-0496,Training,Unit Delta - 68,West Java,-5.2158,114.2653,98.9,FLAGGED
+ROW-0497,Infrastructure,Unit Echo - 29,Sulawesi,0.6044,105.4172,85.3,FLAGGED
+ROW-0498,Logistics,Unit Bravo - 84,Kalimantan,-0.5699,97.2861,96.3,VERIFIED
+ROW-0499,NULL,Unit Delta - 71,West Java,1.4722,127.5604,63.2,
+ROW-0500,Infrastructure,Unit Bravo - 33,Sulawesi,4.2184,97.1552,50.6,VERIFIED
+ROW-0362,Training,Unit Delta - 21,-,-6.4571,139.1973,79.2,VERIFIED
+ROW-0074,Personnel,Unit Alpha - 80,West Java,-8.6667,130.4742,50.3,FLAGGED
+ROW-0375,Personnel,Unit Bravo - 46,West Java,3.2911,106.7492,59.4,VERIFIED
+ROW-0156,Training,Unit Echo - 51,Jakarta,-3.533,98.8526,53.4,VERIFIED
+ROW-0105,Logistics,Unit Echo - 30,Sumatra,-1.6842,139.9932,58.5,VERIFIED
+ROW-0395,Personnel,Unit Bravo - 84,Papua,-6.172,133.0672,54.8,VERIFIED
+ROW-0378,Training,Unit Charlie - 9,Papua,-5.3712,129.4581,-25.5,VERIFIED
+ROW-0125,Equipment,,Sumatra,3.8668,100.7209,99.7,VERIFIED
+ROW-0069,Personnel,Unit Bravo - 23,East Java,-2.5924,116.7541,53.5,VERIFIED
+ROW-0451,Logistics,Unit Bravo - 48,,-8.4819,101.9789,97.6,VERIFIED
+ROW-0010,Training,Unit Charlie - 44,Papua,-7.5826,120.3497,73.3,FLAGGED
+ROW-0195,NULL,Unit Delta - 85,East Java,-4.4351,117.1405,85.5,VERIFIED
+ROW-0407,Training,Unit Bravo - 26,West Java,1.2303,114.6791,66.9,VERIFIED
+ROW-0085,Training,Unit Alpha - 91,Kalimantan,-0.1595,111.1711,82.1,FLAGGED
+ROW-0372,Training,Unit Delta - 13,Papua,0.8236,95.2365,62.2,VERIFIED
+ROW-0389,Personnel,Unit Bravo - 67,Kalimantan,-2.9613,124.5185,90.1,VERIFIED
+ROW-0496,Training,Unit Delta - 68,West Java,-5.2158,114.2653,98.9,FLAGGED
+ROW-0031,Personnel,,Kalimantan,-2.0845,134.9381,74.4,FLAGGED
+ROW-0317,Training,Unit Charlie - 77,JAKARTA,-6.5426,104.2955,82.0,VERIFIED
+ROW-0409,Personnel,Unit Delta - 76,NA,999.99,125.9512,51.9,
